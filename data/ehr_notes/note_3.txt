@@ -1,0 +1,292 @@
+Patient Information
+City: Monicafort
+State: VT
+ZIP: 59796
+Admission
+History Of Present Illness
+47-year-old male presents to the ED following a fall down 15 stairs. HPI: Patient was found unresponsive at the scene after falling down
+approximately 15 stairs. The exact time of onset is unknown, but EMS was called immediately upon discovery. The incident occurred at the patient's
+home. Duration of unconsciousness is unclear. The nature of the injury is blunt trauma, likely involving multiple body systems. Aggravating factors
+include movement and stimulation. There are no known alleviating factors at this time. The severity is critical, given the patient's low GCS score and
+need for intubation. On arrival to the ED, patient's GCS was 7 (E1V1M5), indicating severe impairment of consciousness. Due to his low GCS and
+inability to protect his airway, the patient was intubated. Bilateral bleeding from the ears was noted, raising concern for basilar skull fracture. Review
+of Systems: General: Unresponsive, intubated. Respiratory: On mechanical ventilation, unable to assess spontaneous respiratory effort.
+Cardiovascular: Unable to obtain due to patient's condition. Musculoskeletal: Full extent of injuries unknown pending further examination and
+imaging. Neurological: GCS 7 on arrival, pupils equal and reactive to light, bleeding from ears bilaterally. Endocrine: Unable to assess due to
+patient's condition. Psychiatric: Unable to assess due to patient's condition. Patient remains critically ill, requiring full trauma evaluation and
+Assessment
+Summary Of Findings
+47-year-old male presents with severe traumatic brain injury following fall down 15 stairs. GCS 7 on arrival (E1V1M5), requiring intubation. Bilateral
+otorrhea suggesting basilar skull fracture. Full extent of injuries unknown pending further evaluation.
+Multisystem trauma (thoracic, abdominal, orthopedic injuries)
+Severe traumatic brain injury with suspected basilar skull fracture
+1. Respiratory failure, intubated 2. Altered mental status 3. Polytrauma, extent unknown
+Plan
+Diagnostic Plan
+Arterial blood gas 5. Toxicology screen 6. EKG and portable CXR
+Therapeutic Plan
+1. Continue mechanical ventilation, target PaO2 >100 mmHg, PaCO2 35-40 mmHg 2. IVF resuscitation with normal saline, target MAP >80 mmHg 3.
+Elevate head of bed 30 degrees 4. Phenytoin 20 mg/kg IV loading dose for seizure prophylaxis 5. Mannitol 1 g/kg IV if signs of increased ICP 6.
+Tranexamic acid 1g IV over 10 minutes, then 1g over 8 hours
+Patient Education And Counseling
+Unable to provide at this time due to patient's condition. Family education will be crucial once they arrive.
+Follow-Up Plan
+1. Admit to Neurocritical Care Unit 2. Continuous neuromonitoring 3. Repeat neurological exams q1h 4. Consider ICP monitoring based on CT
+findings and clinical course
+Disposition
+Immediate transfer to Neurocritical Care Unit after initial stabilization and imaging
+Consultations
+fall
+Medical History
+Past Medical History
+Chronic Conditions
+Mild asthma (diagnosed in childhood, occasional use of inhaler)
+Past Illnesses
+Appendicitis with appendectomy (20 years ago)
+Mononucleosis (during college)
+Fractured right wrist from a sports injury (15 years ago, healed without complications)
+Surgeries
+Appendectomy (20 years ago)
+Arthroscopic knee surgery for meniscus tear (5 years ago)
+Hospitalizations
+Appendectomy (as mentioned above)
+Overnight observation for concussion after a car accident (10 years ago)
+Penicillin (mild rash)
+Seasonal pollen (hay fever symptoms)
+Lisinopril 10mg daily (for hypertension)
+Albuterol inhaler (as needed for asthma)
+Multivitamin daily
+Family History
+Siblings Brother with hypertension
+Social History
+Marital Status Married
+Smoking Former smoker, quit 8 years ago
+Alcohol Social drinker, 2-3 beers on weekends
+Exercise Regular gym attendance 3 times a week, plays recreational basketball
+Preventive Care
+Last Physical Annual check-up 6 months ago, all results within normal limits
+Vaccinations Up to date, including annual flu shots and COVID-19 vaccination
+Last Eye Exam 1 year ago, no significant changes in vision
+Physical Examination
+General Appearance
+47-year-old male, intubated, unresponsive, with visible trauma to head and face. Multiple contusions and abrasions noted.
+Heent
+Scalp hematoma noted. Bilateral periorbital ecchymosis. Otorrhea and hemotympanum bilaterally. Pupils equal and reactive to light. Unable to
+assess extraocular movements. Oropharynx not visualized due to ETT.
+Cardiovascular
+Tachycardic, regular rhythm. No murmurs, rubs, or gallops appreciated. Peripheral pulses 2+ and symmetric.
+Respiratory
+On mechanical ventilation. Chest rise symmetric. Breath sounds clear and equal bilaterally.
+Abdomen
+Soft, non-distended. Unable to assess tenderness due to patient's condition. No visible bruising or external trauma.
+Musculoskeletal
+Multiple contusions on extremities. No gross deformities noted. Full passive ROM of all extremities without crepitus.
+Neurological
+GCS 7 (E1V1M5). Pupils PERRL. Unable to assess cranial nerves fully. Withdraws all extremities to painful stimuli.
+Skin
+Multiple abrasions and contusions, particularly on face and extremities. No open wounds noted.
+Progress Notes
+Progress Notes
+Date
+2023-05-01
+Time
+08:30
+Patient Identification
+Name
+John Doe
+Date Of Birth
+1976-05-01
+Medical Record Number
+Subjective
+47-year-old male brought to ED unresponsive after falling down approximately 15 stairs at home. Duration of unconsciousness unknown. On arrival,
+GCS 7 (E1V1M5). Bilateral bleeding from ears noted.
+Objective
+145/92 mmHg
+110 bpm
+16 breaths/min (ventilator-controlled)
+36.8°C
+99% on mechanical ventilation
+Physical Exam
+Intubated, unresponsive. Multiple contusions and abrasions on head, face, and extremities. Scalp hematoma, bilateral periorbital ecchymosis.
+Otorrhea and hemotympanum bilaterally. Pupils equal and reactive to light. Chest rise symmetric, breath sounds clear bilaterally. Abdomen soft,
+non-distended. Withdraws all extremities to painful stimuli.
+Imaging
+CT head, cervical spine, chest, abdomen, and pelvis pending.
+Assessment
+Severe traumatic brain injury with suspected basilar skull fracture, status post fall. Multiple system trauma.
+Plan
+Admit to Neurocritical Care Unit
+Continue mechanical ventilation
+Neurological checks q1h
+ICP monitoring to be placed after CT head
+Maintain MAP > 80 mmHg
+Neurosurgery and Trauma Surgery consults
+Repeat CT head in 6 hours
+Seizure prophylaxis with Levetiracetam
+DVT prophylaxis with pneumatic compression devices
+Family meeting to discuss prognosis and goals of care
+Date
+2023-05-02
+Time
+09:00
+Patient Identification
+Name
+John Doe
+Date Of Birth
+1976-05-01
+Medical Record Number
+Subjective
+Patient remains intubated and sedated. No spontaneous movements observed.
+Objective
+132/78 mmHg
+88 bpm
+14 breaths/min (ventilator-controlled)
+37.2°C
+100% on mechanical ventilation
+Intracranial Pressure
+15 mmHg
+Physical Exam
+No change in neurological status. GCS remains 3T. Pupils equal and reactive. No new findings on systemic examination.
+Na 138, K 4.2, Cl 104, HCO3 24, BUN 18, Cr 0.9, Glucose 110, WBC 12.5, Hgb 11.8, Plt 180
+Imaging
+Assessment
+Day 2 of severe traumatic brain injury. Hemodynamically stable. ICP controlled.
+Plan
+Maintain ICP < 20 mmHg and CPP > 60 mmHg
+Initiate enteral nutrition via NG tube
+Continue seizure prophylaxis and DVT prophylaxis
+Physical therapy and occupational therapy consults for early mobilization
+Respiratory therapy for pulmonary hygiene
+Daily spontaneous breathing trials
+Neurosurgery to follow
+Date
+2023-05-03
+Time
+08:45
+Patient Identification
+Name
+John Doe
+Date Of Birth
+1976-05-01
+Medical Record Number
+Subjective
+Patient opened eyes spontaneously during morning assessment. No other changes in neurological status.
+Objective
+128/74 mmHg
+82 bpm
+16 breaths/min (patient-triggered)
+37.0°C
+99% on mechanical ventilation
+Intracranial Pressure
+12 mmHg
+Physical Exam
+GCS improved to 6T (E4VTM1). Pupils equal and reactive. Minimal withdrawal to painful stimuli in all extremities. No signs of infection at surgical
+sites.
+Na 140, K 4.0, Cl 106, HCO3 25, BUN 16, Cr 0.8, Glucose 105, WBC 10.2, Hgb 11.5, Plt 195
+Ventilator Settings
+AC mode, FiO2 40%, PEEP 5, RR 12
+Assessment
+Day 3 of severe traumatic brain injury. Slight improvement in neurological status. Hemodynamically stable with controlled ICP.
+Plan
+Gradual decrease in sedation to further assess neurological status
+Consider tracheostomy if unable to extubate within next 48-72 hours
+Continue enteral nutrition, seizure prophylaxis, and DVT prophylaxis
+Advance physical therapy and occupational therapy as tolerated
+Family meeting to update on patient's condition and discuss potential long-term care needs
+LABORATORY REPORTS
+Report Date
+2023-05-01
+Report Time
+06:47
+Test Name
+ECG
+Results
+Finding
+Sinus rhythm
+Finding
+J point and ST segment elevation, possibly a normal variant
+Finding
+No previous tracing available for comparison
+PR Interval 192 ms
+QRS Duration 92 ms
+QT/QTc Interval 448/490 ms
+Report Date
+2023-05-02
+Report Time
+09:00
+Test Name
+Basic Metabolic Panel
+Results
+Sodium 138 mmol/L 135-145
+Potassium 4.2 mmol/L 3.5-5.0
+Chloride 104 mmol/L 98-107
+Bicarbonate 24 mmol/L 22-29
+BUN 18 mg/dL 7-20
+Creatinine 0.9 mg/dL 0.6-1.2
+Glucose 110 mg/dL 70-100 H
+Report Date
+2023-05-02
+Report Time
+09:00
+Test Name
+Complete Blood Count
+Results
+WBC 12.5 K/uL 4.5-11.0 H
+Hemoglobin 11.8 g/dL 13.5-17.5 L
+Platelets 180 K/uL 150-450
+Report Date
+2023-05-03
+Report Time
+08:45
+Test Name
+Basic Metabolic Panel
+Results
+Sodium 140 mmol/L 135-145
+Potassium 4.0 mmol/L 3.5-5.0
+Chloride 106 mmol/L 98-107
+Bicarbonate 25 mmol/L 22-29
+BUN 16 mg/dL 7-20
+Creatinine 0.8 mg/dL 0.6-1.2
+Glucose 105 mg/dL 70-100 H
+Report Date
+2023-05-03
+Report Time
+08:45
+Test Name
+Complete Blood Count
+Results
+WBC 10.2 K/uL 4.5-11.0
+Hemoglobin 11.5 g/dL 13.5-17.5 L
+Platelets 195 K/uL 150-450
+Discharge Summary
+Patient Information
+Medical Record Number
+Reason For Admission
+47-year-old male admitted for severe traumatic brain injury with suspected basilar skull fracture after falling down approximately 15 stairs at home.
+Patient was found unresponsive with a GCS of 7 on arrival to the ED.
+Hospital Course
+Patient was intubated in the ED due to low GCS and inability to protect airway. CT scans revealed bilateral longitudinal temporal bone fractures and
+patient received mechanical ventilation, seizure prophylaxis, and DVT prophylaxis. Over the course of three days, the patient showed slight
+improvement in neurological status, with GCS improving from 3T to 6T (E4VTM1). ICP remained controlled throughout the hospital stay.
+Severe traumatic brain injury
+Bilateral longitudinal temporal bone fractures
+Diffuse axonal injury
+Bilateral hemotympanum
+Levetiracetam As prescribed Intravenous Twice daily
+Follow Up Plans
+Follow up with Neurosurgery in 1-2 weeks
+Schedule appointment with Physical Medicine and Rehabilitation within 1 month
+Audiology assessment within 2 weeks
+Continue inpatient rehabilitation as determined by the rehabilitation team
+Discharge Instructions
+Monitor for signs of increased intracranial pressure (severe headache, vomiting, decreased level of consciousness)
+Follow speech and swallowing therapy recommendations
+Adhere to physical and occupational therapy exercise regimens
+Avoid strenuous activities and follow activity restrictions as advised by the rehabilitation team
+Return to the Emergency Department if experiencing worsening neurological symptoms, fever, or signs of infection
+Additional Notes
+Patient requires ongoing intensive rehabilitation
+Long-term prognosis remains guarded; family has been counseled on potential outcomes
+Consider outpatient neuropsychological evaluation once medically stable
+Hearing assessment and follow-up recommended due to temporal bone fractures
+Patient may require long-term care and support; social work has been involved for resource planning
