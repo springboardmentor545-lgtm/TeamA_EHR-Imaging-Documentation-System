@@ -1,4 +1,4 @@
-# Chest X-Ray Pneumonia Classification AI Project
+# Chest X-Ray Pneumonia Classification 
 
 ## Module 1: Data Collection and Preprocessing
 
@@ -27,3 +27,4 @@ The `sample_data.zip` file contains 80 example images (40 from each class) from 
 2.  Place the unzipped `chest_xray` folder inside a `data/archive/` directory.
 
 3.  Run the `chest_xray_analysis.ipynb` notebook to reproduce the preprocessing.
+
