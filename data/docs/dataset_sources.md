@@ -18,7 +18,7 @@
 - **Content**:These images are CT scan slices of lung tissue sourced from Iraqi hospitals, and the dataset has been augmented to increase the number of training samples
 - **Purpose**:It provides unstructured visual data for aiding early diagnosis, and enabling integration with structured datasets (EHR, ICD-10).
 
-  ## 4.MRI images
+## 4.MRI images
   - **Type**: Unstructured Dataset
   - **Source**:From kaggle link->https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
   - **Content**: Contains images with Brain tumors
