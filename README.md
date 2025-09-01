@@ -5,17 +5,27 @@ Milestone 1: Data Collection and Preprocessing
 The goal of this milestone is to collect, organize, and preprocess medical imaging and clinical (EHR) data to prepare it for downstream AI/GenAI model training and applications.
 ________________________________________
 📂 Tasks Completed
+
 1. Data Collection
+
 •	Medical Imaging Datasets
+
 o	Collected openly available datasets: X-ray, MRI, CT, Ultrasound, DXA
+
 o	Sources: Kaggle, PhysioNet, NIH, and other open repositories.
+
 •	Electronic Health Records (EHR)
+
 o	Gathered structured data: demographics, vitals, lab test results, coded values (ICD/CPT).
+
 o	Gathered unstructured data: patient notes, discharge summaries, and free-text reports.
 
 ________________________________________
+
 2. Preprocessing
+
 •	Cleaning
+
 o	Removed duplicates and noisy/unreadable samples.
 o	Standardized missing values and normalized units.
 •	Labeling
@@ -30,7 +40,9 @@ ________________________________________
 📊 Output of Milestone 1
 Enhancing_EHRs_with_GenAI/
 │
+
 ├── data/
+
 │   ├── images/
 │   │   ├── MRI_001.png
 │   │   ├── MRI_002.png
