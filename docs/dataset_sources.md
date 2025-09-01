@@ -16,7 +16,7 @@ Type: CT lung images (normal vs cancerous).
 
 Chest X-ray Images (Pneumonia)
 
-URL: Kaggle Dataset
+URL: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 License: Open-source, academic use.
 
