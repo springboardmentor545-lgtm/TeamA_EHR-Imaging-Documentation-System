@@ -1,0 +1,445 @@
+Patient Information
+City: Thomaston
+State: IN
+ZIP: 79218
+Phone:
+Emergency Contact
+Name: Angela Hart
+Relation: Parent
+Phone: 925-620-7388
+1
+History Of Presenting Illness
+Mr. Stephen Porter, a 57-year-old male with a history of ESRD on home HD, thyroid cancer, HTN, lumbar
+spondylosis with radiculopathy, and CAD s/p CABG, presents with severe low back pain and inability to
+ambulate. Chief Complaint: Low back pain and inability to walk. Onset: Patient reports onset of symptoms
+approximately one month ago following a motor vehicle accident where he was rear-ended. The pain
+acutely worsened recently, prompting him to contact his PCP's office on the day of presentation. Location:
+Low back with radiation down the back of both legs. Duration: One month, with acute exacerbation.
+Character: Patient describes the pain as sharp and shooting. Alleviating/Aggravating Factors: Pain is
+exacerbated by movement and attempts to ambulate. Alleviating factors are not clearly identified.
+Radiation: Pain radiates down the back of both legs. Timing: Constant pain with recent acute worsening.
+Severity: Severe enough to impair ambulation, suggesting 9-10/10 on pain scale. Associated Symptoms:
+Patient denies bowel or bladder incontinence, saddle anesthesia, fever, or chills. He reports significant
+spinal tenderness and weakness in the lower extremities, being unable to stand or walk without a cane. In
+the ED, the patient was noted to be hypertensive with BP up to 200s/90s, likely due to pain and missed HD
+session.
+Chief Complaint
+Low back pain and inability to ambulate
+Review Of Systems
+General
+Denies fever or chills. Reports severe pain and inability to ambulate.
+Respiratory
+No SOB or cough reported.
+Cardiovascular
+Hypertensive in ED. No chest pain, palpitations, or syncope reported.
+Musculoskeletal
+Severe low back pain with radiation down legs. Unable to ambulate without assistance. Weakness in
+lower extremities noted.
+Neurological
+Alert and oriented. Denies bowel or bladder incontinence, saddle anesthesia. Reports weakness in lower
+extremities.
+Endocrine
+History of thyroid cancer, current status not specified. No acute endocrine complaints reported.
+Psychiatric
+No acute psychiatric symptoms reported. Patient interactive and appropriate.
+Assessment
+Summary Of Findings
+57-year-old male with hx of ESRD on home HD, thyroid cancer, HTN, lumbar spondylosis with
+radiculopathy, and CAD s/p CABG presents with severe low back pain and inability to ambulate. Pain
+onset 1 month ago after MVA, acutely worsened recently. Pain radiates down both legs, exacerbated by
+movement. Patient hypertensive in ED (BP 200s/90s). Unable to stand or walk without cane. Denies
+bowel/bladder incontinence or saddle anesthesia.
+1. Acute exacerbation of chronic lumbar radiculopathy 2. Spinal stenosis 3. Cauda equina syndrome 4.
+Epidural abscess 5. Vertebral osteomyelitis 6. Pathological vertebral fracture
+2
+Acute exacerbation of chronic lumbar radiculopathy
+1. ESRD on home HD 2. Hypertensive urgency 3. CAD s/p CABG 4. History of thyroid cancer 5. Lumbar
+spondylosis
+Plan
+Diagnostic Plan
+1. MRI lumbar spine without contrast 2. X-ray lumbar spine AP/Lateral 3. CBC, CMP, CRP, ESR 4. Urinalysis
+5. EKG 6. Neurology consult for EMG/NCS if needed
+Therapeutic Plan
+TID 3. Anti-inflammatory: Methylprednisolone 125mg IV q24h 4. BP control: Amlodipine 10mg PO daily,
+titrate PRN 5. Resume home HD schedule 6. DVT prophylaxis: Enoxaparin 40mg SQ daily
+Patient Education And Counseling
+1. Discuss chronic nature of lumbar spondylosis and potential for acute exacerbations 2. Educate on
+importance of pain control and gradual mobilization 3. Review HD schedule and importance of adherence
+Follow Up Plan
+1. Neurosurgery consult for surgical evaluation 2. Physical therapy evaluation and treatment 3.
+Disposition
+Consultations
+3
+Past Medical History
+Chronic Conditions
+Hypertension
+Coronary artery disease (CAD) status post coronary artery bypass graft (CABG)
+Lumbar spondylosis with radiculopathy
+Thyroid cancer (status post treatment)
+Past Illnesses
+Myocardial infarction (leading to CABG)
+Chronic kidney disease progression to ESRD
+Surgeries
+Coronary artery bypass graft (CABG) - 5 years ago
+Total thyroidectomy for thyroid cancer - 8 years ago
+Arteriovenous fistula creation for hemodialysis access - 3 years ago
+Hospitalizations
+Admission for CABG - 5 years ago
+Admission for thyroidectomy - 8 years ago
+Multiple admissions for ESRD-related complications in the past 3 years
+Amlodipine 10mg daily
+Metoprolol 50mg twice daily
+Atorvastatin 40mg daily
+Aspirin 81mg daily
+Levothyroxine 125mcg daily
+Calcium acetate 667mg with meals
+Erythropoietin injection three times weekly
+Gabapentin 300mg three times daily for radiculopathy
+Family History
+Mother Hypertension, alive at 80
+Siblings Brother with type 2 diabetes
+Social History
+Occupation Retired accountant
+Marital Status Married
+Children Two adult children
+4
+Smoking Former smoker, quit 10 years ago
+Alcohol Occasional, less than 1 drink per week
+Exercise Limited due to back pain, previously active
+Preventive Care
+Last Colonoscopy 2 years ago, normal
+Last
+1 year ago, showed preserved EF
+Echocardiogram
+Vaccinations Up to date, including annual flu shots and COVID-19 vaccination
+Cancer Screening Regular thyroid ultrasounds and thyroglobulin levels post thyroidectomy
+5
+Physical Examination
+General Appearance
+57-year-old male in moderate distress due to pain. Alert, cooperative, and well-nourished.
+Oxygen
+97% on room air
+Saturation
+Heent
+PERRL, EOMI. No scleral icterus. Oropharynx clear. No JVD.
+Cardiovascular
+RRR, no murmurs, rubs, or gallops. S1/S2 normal. Peripheral pulses 2+ bilaterally. No edema.
+Respiratory
+CTAB, no wheezes or crackles. Respirations non-labored.
+Abdomen
+Soft, non-tender, non-distended. BS+. No hepatosplenomegaly.
+Musculoskeletal
+Severe tenderness to palpation over lumbar spine. Positive SLR bilaterally. Decreased ROM in lumbar
+spine due to pain. Unable to stand or walk without assistance. Motor strength 4/5 in bilateral lower
+extremities.
+Neurological
+A&Ox3. CN II-XII intact. DTRs 2+ and symmetric. Sensation intact to light touch. No saddle anesthesia.
+Skin
+Warm and dry. No rashes or lesions. Surgical scars noted on chest (CABG) and neck (thyroidectomy).
+6
+Progress Notes
+Progress Note
+Date 2023-06-12
+Time 08:00
+Patient Identification
+Name Stephen D Porter
+Admission
+A000172
+Number
+Subjective
+57-year-old male with ESRD on home HD, thyroid cancer, HTN, lumbar spondylosis, and CAD s/p CABG
+presents with severe low back pain and inability to ambulate. Pain began 1 month ago after MVA, acutely
+worsened recently. Pain radiates down both legs, exacerbated by movement. Denies bowel/bladder
+incontinence or saddle anesthesia. Reports significant spinal tenderness and weakness in lower
+extremities.
+Objective
+Physical Exam
+In moderate distress due to pain. Severe tenderness over lumbar spine. Positive SLR bilaterally.
+Decreased ROM in lumbar spine. Unable to stand or walk without assistance. Motor strength 4/5 in
+bilateral lower extremities. No saddle anesthesia.
+Assessment
+Acute exacerbation of chronic lumbar radiculopathy, ESRD on home HD, Hypertensive urgency
+Plan
+Admit to medical floor
+MRI lumbar spine without contrast
+X-ray lumbar spine AP/Lateral
+EKG
+7
+Cyclobenzaprine 10mg PO TID
+Methylprednisolone 125mg IV q24h
+Amlodipine 10mg PO daily for BP control
+Resume home HD schedule
+Neurosurgery and Nephrology consults
+Progress Note
+Date 2023-06-13
+Time 09:00
+Patient Identification
+Name Stephen D Porter
+Admission
+A000172
+Number
+Subjective
+Patient reports mild improvement in pain control. Still having difficulty with movement. No new
+symptoms. Denies bowel/bladder issues.
+Objective
+Physical Exam
+Less distressed. Lumbar tenderness persists. SLR still positive. Slight improvement in ROM. Motor
+strength unchanged.
+Assessment
+Improving lumbar radiculopathy. BP better controlled. Awaiting MRI results.
+Plan
+Adjust BP meds: increase Amlodipine to 15mg daily
+Physical therapy evaluation
+Review MRI results when available
+Continue HD as scheduled
+Progress Note
+Date 2023-06-14
+8
+Time 10:00
+Patient Identification
+Name Stephen D Porter
+Admission
+A000172
+Number
+Subjective
+Patient reports further improvement in pain. Able to sit up in bed with less discomfort. No new
+complaints.
+Objective
+Physical Exam
+Improved affect. Lumbar tenderness decreased. SLR improved. Increased ROM in lumbar spine. Motor
+strength 4+/5 in lower extremities.
+Assessment
+Continuing improvement in lumbar radiculopathy. BP well controlled. MRI shows severe spinal stenosis at
+L4-L5.
+Plan
+Gradually decrease IV pain meds, transition to oral
+Continue PT and start gentle mobilization
+Discuss potential for discharge tomorrow if improvement continues
+Progress Note
+Date 2023-06-15
+Time 09:00
+Patient Identification
+Name Stephen D Porter
+9
+Admission
+A000172
+Number
+Subjective
+Patient reports significant improvement. Pain well controlled with oral meds. Able to ambulate short
+distances with walker.
+Objective
+Physical Exam
+Alert and in good spirits. Minimal lumbar tenderness. Negative SLR. Further improved ROM. Motor
+strength 5/5 in lower extremities.
+Assessment
+Resolving lumbar radiculopathy. BP well controlled. Ready for discharge.
+Plan
+Discharge home with outpatient PT
+Follow up with Neurosurgery in 2 weeks
+Resume home HD schedule
+Instruct on red flag symptoms
+Follow up with PCP in 1 week
+Progress Note
+Date 2023-06-16
+Time 10:00
+Patient Identification
+Name Stephen D Porter
+Admission
+A000172
+Number
+10
+Subjective
+Objective
+Physical Exam
+Alert and comfortable. Minimal lumbar tenderness. Full ROM. Ambulating well with walker.
+Assessment
+Resolved acute exacerbation of lumbar radiculopathy. BP well controlled. ESRD stable.
+Plan
+Discharge home today
+Provide prescriptions and follow-up appointments
+Review discharge instructions and red flag symptoms
+11
+Radiology Reports
+Radiology Report #103592
+Patient Info
+Name Stephen D Porter
+57-year-old male with ESRD on home HD, thyroid cancer, HTN, lumbar
+Clinicalhistory spondylosis with radiculopathy, and CAD s/p CABG. Presenting with severe low
+back pain and inability to ambulate.
+Study Info
+Type MRI of the lumbar spine without contrast
+Datetime 2023-06-12
+Reason Evaluate for cause of severe low back pain and radiculopathy
+Technique
+MRI of the lumbar spine was performed without contrast, including T1-weighted, T2-weighted, and STIR
+sequences in multiple planes.
+Findings
+Alignment Normal lumbar lordosis maintained. No spondylolisthesis.
+Normal vertebral body heights. No compression fractures or bone marrow
+Vertebralbodies
+edema.
+Severe disc height loss at L4-L5 and L5-S1 levels. Moderate disc desiccation at
+Discspaces
+these levels.
+Severe central canal stenosis at L4-L5 due to a combination of disc bulge, facet
+Spinalcanal hypertrophy, and ligamentum flavum thickening. Moderate central canal stenosis
+at L5-S1.
+Neuralforamina Severe bilateral neural foraminal narrowing at L4-L5 and L5-S1 levels.
+Nerveroots Bilateral L4 and L5 nerve root compression noted.
+Facetjoints Severe facet joint arthropathy at L4-L5 and L5-S1 levels.
+ParavertebralsofttissueNso abnormal paravertebral soft tissue masses or collections.
+Impression
+1. Severe spinal stenosis at L4-L5 level with bilateral L4 nerve root compression.
+2. Moderate to severe spinal stenosis at L5-S1 level with bilateral L5 nerve root compression.
+3. Severe facet joint arthropathy at L4-L5 and L5-S1 levels.
+12
+4. No evidence of acute fracture, infection, or malignancy.
+Conclusion
+Findings consistent with severe degenerative changes in the lower lumbar spine, most pronounced at L4-
+L5 and L5-S1 levels, resulting in severe spinal stenosis and nerve root compression. These findings
+correlate with the patient's symptoms of low back pain and radiculopathy.
+Radiologist Info
+Name Dr. Jane Smith
+Signature Electronically signed by Dr. Jane Smith
+Contact 555-123-4567
+13
+Lab Reports
+Firstname Stephen
+Lastname Porter
+Middlename D
+Medical Record
+M000139
+Number
+Charttime 2023-10-01 08:30:00
+Category Chemistry
+Test Name Comprehensive Metabolic Panel
+Results
+Sodium 138 mEq/L 135-145 mEq/L WNL
+Potassium 4.2 mEq/L 3.5-5.1 mEq/L WNL
+Chloride 102 mEq/L 98-107 mEq/L WNL
+CO2 24 mEq/L 22-30 mEq/L WNL
+BUN 18 mg/dL 7-20 mg/dL WNL
+Creatinine 1.1 mg/dL 0.6-1.2 mg/dL WNL
+Glucose 110 mg/dL 70-100 mg/dL H
+14
+Calcium 9.2 mg/dL 8.5-10.2 mg/dL WNL
+Total Protein 7.0 g/dL 6.0-8.3 g/dL WNL
+Albumin 3.8 g/dL 3.5-5.0 g/dL WNL
+Total Bilirubin 0.8 mg/dL 0.3-1.2 mg/dL WNL
+Alkaline Phosphatase 75 U/L 30-120 U/L WNL
+AST 32 U/L 10-40 U/L WNL
+ALT 28 U/L 7-56 U/L WNL
+Firstname Stephen
+Lastname Porter
+Middlename D
+Medical Record
+M000139
+Number
+Charttime 2023-10-01 09:15:00
+Category Hematology
+Test Name Complete Blood Count
+Results
+WBC 9.2 K/uL 4.5-11.0 K/uL WNL
+RBC 4.8 M/uL 4.5-5.9 M/uL WNL
+15
+Hemoglobin 14.2 g/dL 13.5-17.5 g/dL WNL
+Hematocrit 42 % 41-53% WNL
+MCV 88 fL 80-100 fL WNL
+MCH 29.6 pg 27-31 pg WNL
+MCHC 33.8 g/dL 32-36 g/dL WNL
+RDW 13.2 % 11.5-14.5% WNL
+Platelet Count 245 K/uL 150-450 K/uL WNL
+Firstname Stephen
+Lastname Porter
+Middlename D
+Medical Record
+M000139
+Number
+Charttime 2023-10-03 10:45:00
+Category Chemistry
+Test Name Lipid Panel
+Results
+Total Cholesterol 210 mg/dL <200 mg/dL H
+16
+Triglycerides 165 mg/dL <150 mg/dL H
+HDL Cholesterol 42 mg/dL >40 mg/dL WNL
+LDL Cholesterol (calculated) 135 mg/dL <100 mg/dL H
+Firstname Stephen
+Lastname Porter
+Middlename D
+Medical Record
+M000139
+Number
+Charttime 2023-10-05 14:20:00
+Category Chemistry
+Test Name Thyroid Function Tests
+Results
+TSH 2.8 mIU/L 0.4-4.0 mIU/L WNL
+Free T4 1.2 ng/dL 0.8-1.8 ng/dL WNL
+17
+1 Lisinopril 10mg PO Daily 2023-08-01 2023-08-05
+2 Metoprolol Tartrate 25mg PO BID 2023-08-01 2023-08-05
+3 Aspirin 81mg PO Daily 2023-08-01 2023-08-05
+4 Heparin 5000 units SC q8h 2023-08-01 2023-08-05
+5 Morphine Sulfate 2-4mg IV q4h PRN 2023-08-01 2023-08-03
+6 Ondansetron 4mg IV q6h PRN 2023-08-01 2023-08-03
+7 Pantoprazole 40mg IV Daily 2023-08-01 2023-08-05
+18
+Discharge Summary
+Patient Information
+Full Name
+Stephen D Porter
+Date Of Birth
+1966-08-06
+Male
+Medical Record Number
+M000139
+Admission Date
+2023-06-12
+Discharge Date
+2023-06-16
+Reason For Admission
+Mr. Porter, a 57-year-old male with a history of ESRD on home HD, thyroid cancer, HTN, lumbar
+spondylosis with radiculopathy, and CAD s/p CABG, was admitted due to severe low back pain and
+inability to ambulate. The pain began one month ago following a motor vehicle accident and acutely
+worsened prior to admission.
+Hospital Course
+During his 5-day stay, Mr. Porter underwent evaluation and treatment for acute exacerbation of chronic
+lumbar radiculopathy. Key events included: 1. MRI of the lumbar spine revealed severe spinal stenosis at
+15mg daily for better BP control. 5. Neurosurgery consultation: Recommended conservative
+throughout the stay, progressing from being unable to ambulate to walking short distances with a walker.
+Primary
+Acute exacerbation of chronic lumbar radiculopathy due to severe spinal stenosis
+Secondary
+Hypertension
+Coronary artery disease status post CABG
+History of thyroid cancer
+Amlodipine 15mg PO Daily
+Metoprolol Tartrate 25mg PO Twice daily
+Aspirin 81mg PO Daily
+19
+Oxycodone 5-10mg PO Every 4-6 hours as needed for pain
+Cyclobenzaprine 10mg PO Three times daily as needed for muscle spasms
+Levothyroxine 125mcg PO Daily
+Follow Up Plans
+Follow up with primary care physician in 1 week
+Neurosurgery appointment in 2 weeks for reassessment
+Continue outpatient physical therapy 2-3 times per week
+Resume home hemodialysis schedule as previously established
+Discharge Instructions
+Activity Restrictions
+Gradually increase activity as tolerated. Use walker for ambulation. Avoid heavy lifting or strenuous
+activities.
+Dietary Recommendations
+pain improves.
+Signs Requiring Attention
+Seek immediate medical attention if experiencing: - Severe, uncontrolled pain - New or worsening
+weakness in legs - Loss of bladder or bowel control - Fever above 38°C (100.4°F) - Shortness of breath or
+chest pain
+Additional Notes
+Social Support
+Patient lives with spouse who will assist with care at home.
+Equipment Needs
+Walker provided for home use.
+Educational Resources
+20
