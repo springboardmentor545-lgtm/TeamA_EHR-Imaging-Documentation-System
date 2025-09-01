@@ -1,6 +1,6 @@
 Brain MRI Images for Brain Tumor Detection
 
-URL: Kaggle Dataset
+URL: 
 
 License: Open-source, for research and educational purposes.
 
