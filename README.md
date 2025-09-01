@@ -55,13 +55,19 @@ Enhancing_EHRs_with_GenAI/
 
 
 │   │   ├── MRI_001.png
+
 │   │   ├── MRI_002.png
+
 │   │   └── CT_001.png
 │   │
 
+
 │   ├── ehr_notes/
+
 │   │   ├── note_001.txt
+
 │   │   ├── note_002.txt
+
 │   │   └── note_003.txt
 │   │
 
@@ -70,9 +76,14 @@ Enhancing_EHRs_with_GenAI/
 
 
 ├── docs/
+
+
 │   ├── dataset_sources.md
+
 │   ├── cleaning_steps.md
+
 │   └── challenges.md
+
 │
 └── README.md
 
