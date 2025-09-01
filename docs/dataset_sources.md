@@ -1,6 +1,6 @@
 Brain MRI Images for Brain Tumor Detection
 
-URL: 
+URL: https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 
 License: Open-source, for research and educational purposes.
 
@@ -8,7 +8,7 @@ Type: MRI brain images with tumor/normal labels.
 
 IQ-OTH/NCCD Lung Cancer Dataset (CT Images, Augmented)
 
-URL: Kaggle Dataset
+URL: https://www.kaggle.com/datasets/subhajeetdas/iq-othnccd-lung-cancer-dataset-augmented
 
 License: Open-source, academic usage permitted.
 
@@ -26,7 +26,7 @@ Content: Separate folders for “PNEUMONIA” and “NORMAL” classes.
 
 Cynthia Synthetic EHR Dataset (PDF version)
 
-URL: Kaggle Dataset
+URL: https://www.kaggle.com/datasets/craigcynthiaai/cynthia-data-synthetic-ehr-records?utm_source=chatgpt.com
 
 License: Open-source, synthetic and de-identified.
 
@@ -36,7 +36,7 @@ Content: Structured (demographics, diagnoses, medications) + unstructured (physi
 
 Electronic Health Record (Anu Chhetry)
 
-URL: Kaggle Dataset
+URL: https://www.kaggle.com/datasets/anuchhetry/electronic-health-record?utm_source=chatgpt.com
 
 License: Open-source, de-identified.
 
