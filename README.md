@@ -17,12 +17,13 @@ This project prepares a dataset of chest X-ray images to train an AI model to de
 4.  **Data Splitting:** Split data into Train (3747), Validation (937), and Test (1172) sets.
 
 ### Sample Images
-The `sample_data` folder contains 80 example images (50 from each class) from the test set.
+The `sample_data` folder contains 80 example images (40 from each class) from the test set.
 
 ### Sample Images
-The `sample_data.zip` file contains 80 example images (50 from each class) from the test set. Download and unzip this file to view the images.
+The `sample_data.zip` file contains 80 example images (40 from each class) from the test set. Download and unzip this file to view the images.
 
 ### How to Reproduce
 1.  Download the dataset from Kaggle.
 2.  Place the unzipped `chest_xray` folder inside a `data/archive/` directory.
+
 3.  Run the `chest_xray_analysis.ipynb` notebook to reproduce the preprocessing.
