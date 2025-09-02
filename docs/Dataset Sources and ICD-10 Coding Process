@@ -1,0 +1,26 @@
+# Dataset Sources and ICD-10 Coding Process
+
+## Source
+The dataset combines chest X-ray and CT scan records annotated with diagnosis text.
+
+## ICD-10 Mapping Process
+1. Each record includes:  
+   - Filename  
+   - Modality (X-ray / CT)  
+   - Diagnosis text  
+   - ICD-10 code  
+
+2. Mapping steps:  
+   - Diagnosis text was standardized (normalized casing and spelling).  
+   - ICD-10 codes were assigned using WHO ICD-10 guidelines.  
+   - For ambiguous cases, the most appropriate generalized ICD-10 category was used.  
+   - All entries were validated for consistency.  
+
+3. Output:  
+   - Final dataset stored at **`data/mapping.csv`**.  
+   - Reference codes documented in **`docs/icd10_mapping_notes.md`**.  
+
+## Structure
+- `data/mapping.csv` → Cleaned dataset with ICD-10 codes.  
+- `docs/icd10_mapping_notes.md` → Justification for chosen ICD-10 codes.  
+- `docs/dataset_sources.md` → Process documentation.  
