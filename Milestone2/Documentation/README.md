@@ -4,7 +4,9 @@ This project focuses on enhancing medical images (MRI, CT, X-ray) using Generati
 
 Milestone 2 covers implementation, experimentation, and evaluation of image enhancement techniques.
 📂 Folder Structure
+
 Milestone2/
+
 │|    
 
 |├── Documentation   # Reports, milestone documentation, write-ups
