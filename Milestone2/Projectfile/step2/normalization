@@ -1,0 +1,51 @@
+import os
+import numpy as np
+from PIL import Image
+from sklearn.model_selection import train_test_split
+
+# Input and output directories
+data_dir = r"C:\Users\Anjuri Hima\Downloads\attachments"   # original dataset path
+output_dir = r"C:\Users\Anjuri Hima\Downloads\attachments_normalized"
+
+# Create output folders
+train_dir = os.path.join(output_dir, "train")
+test_dir = os.path.join(output_dir, "test")
+os.makedirs(train_dir, exist_ok=True)
+os.makedirs(test_dir, exist_ok=True)
+
+# Collect all image file paths
+image_files = [f for f in os.listdir(data_dir) if f.lower().endswith(('.png', '.jpg', '.jpeg'))]
+
+# Train-test split (80% train, 20% test)
+train_files, test_files = train_test_split(image_files, test_size=0.2, random_state=42)
+
+def process_and_save(files, save_dir):
+    count = 0
+    for idx, file in enumerate(files, 1):
+        img_path = os.path.join(data_dir, file)
+        try:
+            # Open and normalize
+            img = Image.open(img_path).convert("RGB")
+            img_array = np.array(img) / 255.0   # normalize to [0,1]
+
+            # Convert back to 8-bit for saving
+            normalized_img = Image.fromarray((img_array * 255).astype(np.uint8))
+
+            # Rename like train_001.png, test_001.png etc.
+            new_name = f"{os.path.basename(save_dir)}_{idx:03d}.png"
+            save_path = os.path.join(save_dir, new_name)
+
+            normalized_img.save(save_path)
+            count += 1
+            print(f"✅ Saved: {save_path}")
+
+        except Exception as e:
+            print(f"❌ Skipped: {img_path} | Error: {e}")
+    return count
+
+# Process train and test sets
+train_count = process_and_save(train_files, train_dir)
+test_count = process_and_save(test_files, test_dir)
+
+print(f"\n🎉 Done! {train_count} images in train and {test_count} images in test.")
+print(f"📂 Output saved in: {output_dir}")
