@@ -1,64 +1,62 @@
 📌 Project Overview
 
-This project focuses on enhancing medical images (MRI, CT, X-ray) using Generative AI and classical deep learning models. The aim is to improve image clarity, denoise scans, and assist healthcare professionals with better diagnostic-quality visuals.
+This project focuses on enhancing medical images (MRI, CT, X-ray) using Generative AI and classical deep learning models. The goal is to improve image clarity, denoise scans, and provide healthcare professionals with diagnostic-quality visuals.
 
-Milestone 2 primarily deals with implementation, experimentation, and evaluation of image enhancement techniques.
-
+Milestone 2 covers implementation, experimentation, and evaluation of image enhancement techniques.
 📂 Folder Structure
 Milestone2/
-│
-├── Documentation   # Reports, milestone documentation, write-ups
-├── Presentation    # PPT files summarizing the milestone
-├── Projectfile     # Source code, preprocessing, and model scripts
-├── Resources       # Reference papers, notes, datasets (links if large)
-└── Results         # Enhanced vs original images, zipped outputs
+│|
+|├── Documentation   # Reports, milestone documentation, write-ups
+|├── Presentation    # PPT files summarizing the milestone
+|├── Projectfile     # Source code, preprocessing, and model scripts
+|├── Resources       # Reference papers, notes, datasets (links if large)
+|└── Results         # Enhanced vs original images, zipped outputs
 
 ✅ Steps Completed in Milestone 2
-
-1.Dataset Preparation
+1. Dataset Preparation
 
 Collected MRI, CT, and X-ray images.
 
 Selected ~20–50 images for testing enhancement.
 
-2.Preprocessing
+2. Preprocessing
 
-Standardized formats (.png, 256x256).
+Standardized formats: .png, resized to 256x256.
 
-Normalized pixel values (0.0 – 1.0).
+Normalized pixel values to range 0.0 – 1.0.
 
-Train/test split created.
+Created train/test split.
 
-3.Enhancement Techniques Applied
+3. Enhancement Techniques Applied
 
-Classical Models: DnCNN, EDSR, SRCNN.
+Classical Deep Models: DnCNN, EDSR, SRCNN.
 
-Generative AI-based: Used APIs to denoise and upscale.
+Generative AI-based: API-based denoising & upscaling.
 
-OpenCV Methods: Backup for sharpening and noise reduction.
+OpenCV Methods: Backup sharpening & noise reduction.
 
-4.Validation
+4. Validation
 
-Compared before vs after images.
+Compared before vs. after images.
 
-Metrics: PSNR (Peak Signal-to-Noise Ratio), SSIM (Structural Similarity Index).
+Metrics used: PSNR (Peak Signal-to-Noise Ratio), SSIM (Structural Similarity Index).
 
-Stored results in /Results folder.
+Results stored in /Results folder.
 
-5.Challenges Faced
+5. Challenges Faced
 
-CPU training was slow → Colab GPU used.
+Slow CPU training → shifted to Colab GPU.
 
-Blurry outputs from some models.
+Some models produced blurry outputs.
 
-Difficulty handling large result sets (~100 images).
+Handling large result sets (~100 images) was difficult.
 
-Fall back to OpenCV methods when deep models failed.
+Used OpenCV methods when deep models underperformed.
 
 📊 Results
 
-- Enhanced images show better clarity and sharpness.
+Enhanced images show better clarity and sharpness.
 
-- Visual evaluation more reliable than metrics (since ground truth HQ images were limited).
+Visual evaluation proved more reliable than metrics (due to limited ground-truth HQ images).
 
-- Hybrid approach (Classical + GenAI) gave best results.
+Hybrid approach (Classical + GenAI) achieved the best overall results.
