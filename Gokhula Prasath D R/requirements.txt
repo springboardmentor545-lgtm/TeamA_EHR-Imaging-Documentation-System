@@ -1,6 +1,0 @@
-pandas
-numpy
-google-generativeai
-reportlab
-EHR_brain
-EHR_heart
