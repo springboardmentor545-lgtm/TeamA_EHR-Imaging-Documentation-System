@@ -1,0 +1,11 @@
+age,gender,symptoms,diagnosis
+83,Female,"Severe headache, sensitivity to light, nausea",Migraine
+20,Female,"Upper abdominal pain, bloating, indigestion",Gastritis
+55,Female,"Joint pain and stiffness, particularly in the morning",Rheumatoid Arthritis
+65,Male,"Upper abdominal pain, bloating, indigestion",Gastritis
+67,Female,"Joint pain and stiffness, particularly in the morning",Rheumatoid Arthritis
+35,Female,"Joint pain and stiffness, particularly in the morning",Rheumatoid Arthritis
+30,Male,"Severe headache, sensitivity to light, nausea",Migraine
+67,Male,"Fever, persistent cough, body aches",Influenza
+71,Female,"Consistently high blood pressure readings, occasional headaches",Hypertension
+81,Female,"Upper abdominal pain, bloating, indigestion",Gastritis
