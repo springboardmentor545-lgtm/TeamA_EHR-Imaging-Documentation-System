@@ -1,0 +1,1374 @@
+age,gender,symptoms,diagnosis,Clinical_Note,ICD-10_Code
+45,male,"Symptoms related to hypertension, uncontrolled (for cerebrovascular accident-see neurological system)","hypertension, uncontrolled (for cerebrovascular accident-see neurological system)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 45-year-old male
+    Presenting complaints: Symptoms related to hypertension, uncontrolled (for cerebrovascular accident-see neurological system)
+    Assessment: Likely hypertension, uncontrolled (for cerebrovascular accident-see neurological system) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for hypertension, uncontrolled (for cerebrovascular accident-see neurological system).
+                                                                                                                                                                                                                                                                    ",I10
+50,male,Symptoms related to ablation or mapping of cardiac conduction pathway,ablation or mapping of cardiac conduction pathway,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 50-year-old male
+    Presenting complaints: Symptoms related to ablation or mapping of cardiac conduction pathway
+    Assessment: Likely ablation or mapping of cardiac conduction pathway based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for ablation or mapping of cardiac conduction pathway.
+        Your physician is interested in the following:
+ the patient should get a cardiac MRI to determine when a cardiac conduction pathway is needed,Z98.89
+83,male,"Symptoms related to endarterectomy, carotid","endarterectomy, carotid","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 83-year-old male
+    Presenting complaints: Symptoms related to endarterectomy, carotid
+    Assessment: Likely endarterectomy, carotid based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for endarterectomy, carotid.
+       Patient: 70-year-old male
+     Presenting complaints: Symptoms related to endarterectomy, carotid.
+                                                                                                                                                                                                                               ",I70.0
+49,male,"Symptoms related to infarction, acute myocardial (mi)","infarction, acute myocardial (mi)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 49-year-old male
+    Presenting complaints: Symptoms related to infarction, acute myocardial (mi)
+    Assessment: Likely infarction, acute myocardial (mi) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for infarction, acute myocardial (mi).
+               
+                  
+                                                                                        
+                                                                                                                                        ",I21.9
+57,male,"Symptoms related to cabg alone, coronary artery bypass grafting","cabg alone, coronary artery bypass grafting","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 57-year-old male
+    Presenting complaints: Symptoms related to cabg alone, coronary artery bypass grafting
+    Assessment: Likely cabg alone, coronary artery bypass grafting based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for cabg alone, coronary artery bypass grafting.
+                                                                                              
+                                                                                                                                                                     ",Z95.1
+80,female,Symptoms related to emphysema/bronchitis,emphysema/bronchitis,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 80-year-old female
+    Presenting complaints: Symptoms related to emphysema/bronchitis
+    Assessment: Likely emphysema/bronchitis based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for emphysema/bronchitis.
+                                                                                                                                                                                                                                                                    ",J44.9
+48,female,Symptoms related to alcohol withdrawal,alcohol withdrawal,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 48-year-old female
+    Presenting complaints: Symptoms related to alcohol withdrawal
+    Assessment: Likely alcohol withdrawal based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for alcohol withdrawal.
+                                                                                                                                                                                                                                                                    ",F10.93
+59,female,"Symptoms related to overdose, sedatives, hypnotics, antipsychotics, benzodiazepines","overdose, sedatives, hypnotics, antipsychotics, benzodiazepines","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 59-year-old female
+    Presenting complaints: Symptoms related to overdose, sedatives, hypnotics, antipsychotics, benzodiazepines
+    Assessment: Likely overdose, sedatives, hypnotics, antipsychotics, benzodiazepines based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for overdose, sedatives, hypnotics, antipsychotics, benzodiazepines.
+      Patient: 55-year-old male
+     Presenting complaints: Symptoms related to overdose, sedatives, hypnotics, antipsychotics, benzodiazepines based on symptoms.
+        Patient: 59-year-old male     Presenting complaints: Symptoms related to overdose, sedatives, hypnotics, antipsychotics, benzodiazepines based on symptoms.
+          Patient: 55-year-old female     Presenting complaints: Symptoms related to overdose, sedatives, hypnotics, antipsychotics, benzodiazepines based on symptoms.
+                                                                                                                      ",T43.501A
+31,male,Symptoms related to diabetic ketoacidosis,diabetic ketoacidosis,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 31-year-old male
+    Presenting complaints: Symptoms related to diabetic ketoacidosis
+    Assessment: Likely diabetic ketoacidosis based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for diabetic ketoacidosis.
+                                                                                                                                                                                                                                                                    ",E10.10
+51,female,"Symptoms related to overdose, alcohols (bethanol, methanol, ethylene glycol)","overdose, alcohols (bethanol, methanol, ethylene glycol)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 51-year-old female
+    Presenting complaints: Symptoms related to overdose, alcohols (bethanol, methanol, ethylene glycol)
+    Assessment: Likely overdose, alcohols (bethanol, methanol, ethylene glycol) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for overdose, alcohols (bethanol, methanol, ethylene glycol).
+                                                                                                                                                                                                                                                                    ",T51.0X1A
+62,female,"Symptoms related to cva, cerebrovascular accident/stroke","cva, cerebrovascular accident/stroke","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 62-year-old female
+    Presenting complaints: Symptoms related to cva, cerebrovascular accident/stroke
+    Assessment: Likely cva, cerebrovascular accident/stroke based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for cva, cerebrovascular accident/stroke.
+                                                                                                                                                                                                                                                                    ",I64
+88,male,"Symptoms related to renal failure, acute","renal failure, acute","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 88-year-old male
+    Presenting complaints: Symptoms related to renal failure, acute
+    Assessment: Likely renal failure, acute based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for renal failure, acute.
+      Patient: 67-year-old female
+      Presenting complaints: Symptoms related to renal failure, acute based on symptoms.
+     Viewing the medical notes to ensure patient information is available.
+      Viewing the medical notes to ensure patient information is available.
+     Viewing the medical notes to ensure patient information is available.
+    Viewing the medical notes to ensure patient information is available.
+    Viewing the medical notes to ensure patient information is available.
+    Viewing the medical notes to ensure patient information is available.
+    Viewing the medical notes to ensure patient information is available.
+    Viewing the medical notes to ensure patient information is available.
+    Viewing the medical notes to ensure patient information is available.
+    Viewing the medical notes to ensure patient information is available.
+    Viewing the medical notes to ensure patient information is available.
+    Viewing the medical notes to ensure patient information is available.
+    Viewing the medical notes to ensure patient information is available.
+    Viewing the medical notes to ensure patient information is",N17.9
+58,male,Symptoms related to ablation or mapping of cardiac conduction pathway,ablation or mapping of cardiac conduction pathway,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 58-year-old male
+    Presenting complaints: Symptoms related to ablation or mapping of cardiac conduction pathway
+    Assessment: Likely ablation or mapping of cardiac conduction pathway based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for ablation or mapping of cardiac conduction pathway.
+                                                                                                    
+                                                                                                                                                               ",Z98.89
+48,female,Symptoms related to drug withdrawal,drug withdrawal,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 48-year-old female
+    Presenting complaints: Symptoms related to drug withdrawal
+    Assessment: Likely drug withdrawal based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for drug withdrawal.
+                                                                                                                                                                                                                                                                    ",Unknown
+68,female,Symptoms related to ablation or mapping of cardiac conduction pathway,ablation or mapping of cardiac conduction pathway,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 68-year-old female
+    Presenting complaints: Symptoms related to ablation or mapping of cardiac conduction pathway
+    Assessment: Likely ablation or mapping of cardiac conduction pathway based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for ablation or mapping of cardiac conduction pathway.
+                                                           
+                                                                                                                                                                                                        ",Z98.89
+52,female,Symptoms related to ablation or mapping of cardiac conduction pathway,ablation or mapping of cardiac conduction pathway,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 52-year-old female
+    Presenting complaints: Symptoms related to ablation or mapping of cardiac conduction pathway
+    Assessment: Likely ablation or mapping of cardiac conduction pathway based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for ablation or mapping of cardiac conduction pathway.
+                                                                                                                                                                                                                                                                    ",Z98.89
+40,male,"Symptoms related to angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)","angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 40-year-old male
+    Presenting complaints: Symptoms related to angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)
+    Assessment: Likely angina, unstable (angina interferes w/quality of life or meds are tolerated poorly) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for angina, unstable (angina interferes w/quality of life or meds are tolerated poorly).
+                         
+                                                                                                                                                                                                                                          ",I20.0
+79,female,"Symptoms related to renal failure, acute","renal failure, acute","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 79-year-old female
+    Presenting complaints: Symptoms related to renal failure, acute
+    Assessment: Likely renal failure, acute based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for renal failure, acute.
+                                                                                                                                         
+                                                                                                                          ",N17.9
+65,male,"Symptoms related to infarction, acute myocardial (mi)","infarction, acute myocardial (mi)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 65-year-old male
+    Presenting complaints: Symptoms related to infarction, acute myocardial (mi)
+    Assessment: Likely infarction, acute myocardial (mi) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for infarction, acute myocardial (mi).
+                                                                                                                                                                                                                                                                    ",I21.9
+57,female,"Symptoms related to hip replacement, total (non-traumatic)","hip replacement, total (non-traumatic)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 57-year-old female
+    Presenting complaints: Symptoms related to hip replacement, total (non-traumatic)
+    Assessment: Likely hip replacement, total (non-traumatic) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for hip replacement, total (non-traumatic).
+                    The patient will have a physical therapist at the same time.
+                             
+                   
+                                                                                                                                                                                  ",Unknown
+63,male,"Symptoms related to shock, cardiogenic","shock, cardiogenic","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 63-year-old male
+    Presenting complaints: Symptoms related to shock, cardiogenic
+    Assessment: Likely shock, cardiogenic based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for shock, cardiogenic.
+                          
+                                          
+                                                                                                                                                                                              ",Unknown
+34,female,"Symptoms related to hypertension, uncontrolled (for cerebrovascular accident-see neurological system)","hypertension, uncontrolled (for cerebrovascular accident-see neurological system)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 34-year-old female
+    Presenting complaints: Symptoms related to hypertension, uncontrolled (for cerebrovascular accident-see neurological system)
+    Assessment: Likely hypertension, uncontrolled (for cerebrovascular accident-see neurological system) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for hypertension, uncontrolled (for cerebrovascular accident-see neurological system).
+                                                                
+                                                                                                                                                                                                   ",I10
+67,male,"Symptoms related to cva, cerebrovascular accident/stroke","cva, cerebrovascular accident/stroke","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 67-year-old male
+    Presenting complaints: Symptoms related to cva, cerebrovascular accident/stroke
+    Assessment: Likely cva, cerebrovascular accident/stroke based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for cva, cerebrovascular accident/stroke.
+                                                       
+
+                                                                                             
+                                                                                                             ",I64
+86,female,Symptoms related to hypothermia,hypothermia,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 86-year-old female
+    Presenting complaints: Symptoms related to hypothermia
+    Assessment: Likely hypothermia based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for hypothermia.
+                                                                                                     
+                                                                                                                                                              ",Unknown
+62,female,"Symptoms related to rhythm disturbance (atrial, supraventricular)","rhythm disturbance (atrial, supraventricular)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 62-year-old female
+    Presenting complaints: Symptoms related to rhythm disturbance (atrial, supraventricular)
+    Assessment: Likely rhythm disturbance (atrial, supraventricular) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for rhythm disturbance (atrial, supraventricular).
+                                                                     
+                                                                                                                                                                                              ",I49.9
+61,male,"Symptoms related to sepsis, pulmonary","sepsis, pulmonary","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 61-year-old male
+    Presenting complaints: Symptoms related to sepsis, pulmonary
+    Assessment: Likely sepsis, pulmonary based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for sepsis, pulmonary.
+    
+                                                                                                                                                                                                                                                               ",Unknown
+74,male,"Symptoms related to angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)","angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 74-year-old male
+    Presenting complaints: Symptoms related to angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)
+    Assessment: Likely angina, unstable (angina interferes w/quality of life or meds are tolerated poorly) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for angina, unstable (angina interferes w/quality of life or meds are tolerated poorly).
+                                                                                                                                                                                                                                                                    ",I20.0
+58,male,"Symptoms related to sepsis, gi","sepsis, gi","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 58-year-old male
+    Presenting complaints: Symptoms related to sepsis, gi
+    Assessment: Likely sepsis, gi based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for sepsis, gi.
+                                
+                                                                                                          
+                                       
+                                                                                ",Unknown
+72,male,"Symptoms related to vascular medical, other","vascular medical, other","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 72-year-old male
+    Presenting complaints: Symptoms related to vascular medical, other
+    Assessment: Likely vascular medical, other based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for vascular medical, other.
+                                                                                                                                                                                                                                                                    ",Unknown
+75,male,"Symptoms related to sepsis, pulmonary","sepsis, pulmonary","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 75-year-old male
+    Presenting complaints: Symptoms related to sepsis, pulmonary
+    Assessment: Likely sepsis, pulmonary based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for sepsis, pulmonary.
+                                                                                                                                                                                                                                                                    ",Unknown
+79,male,"Symptoms related to bleeding, gi-location unknown","bleeding, gi-location unknown","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 79-year-old male
+    Presenting complaints: Symptoms related to bleeding, gi-location unknown
+    Assessment: Likely bleeding, gi-location unknown based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for bleeding, gi-location unknown.
+                                                                                                                                                                                                                                                                    ",Unknown
+41,male,"Symptoms related to hypertension, uncontrolled (for cerebrovascular accident-see neurological system)","hypertension, uncontrolled (for cerebrovascular accident-see neurological system)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 41-year-old male
+    Presenting complaints: Symptoms related to hypertension, uncontrolled (for cerebrovascular accident-see neurological system)
+    Assessment: Likely hypertension, uncontrolled (for cerebrovascular accident-see neurological system) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for hypertension, uncontrolled (for cerebrovascular accident-see neurological system).
+                                                                                                                                                                                                                                                                    ",I10
+> 89,female,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: > 89-year-old female
+    Presenting complaints: Symptoms related to chf, congestive heart failure
+    Assessment: Likely chf, congestive heart failure based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for chf, congestive heart failure.
+                                                                                                                                                                                                                                                                    ",I50.9
+67,male,"Symptoms related to pneumonia, other","pneumonia, other","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 67-year-old male
+    Presenting complaints: Symptoms related to pneumonia, other
+    Assessment: Likely pneumonia, other based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for pneumonia, other.
+                                                                                                                                                                                                                                                                    ",J18.9
+86,female,"Symptoms related to bleeding, lower gi","bleeding, lower gi","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 86-year-old female
+    Presenting complaints: Symptoms related to bleeding, lower gi
+    Assessment: Likely bleeding, lower gi based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for bleeding, lower gi.
+                                                                                                                                                                                                                                                                    ",Unknown
+69,male,"Symptoms related to rhythm disturbance (atrial, supraventricular)","rhythm disturbance (atrial, supraventricular)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 69-year-old male
+    Presenting complaints: Symptoms related to rhythm disturbance (atrial, supraventricular)
+    Assessment: Likely rhythm disturbance (atrial, supraventricular) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for rhythm disturbance (atrial, supraventricular).
+       
+                                                                                                      
+                                                                                                                                                     ",I49.9
+87,male,Symptoms related to emphysema/bronchitis,emphysema/bronchitis,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 87-year-old male
+    Presenting complaints: Symptoms related to emphysema/bronchitis
+    Assessment: Likely emphysema/bronchitis based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for emphysema/bronchitis.
+                                                                                                                                                                                                                                                                    ",J44.9
+87,male,Symptoms related to emphysema/bronchitis,emphysema/bronchitis,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 87-year-old male
+    Presenting complaints: Symptoms related to emphysema/bronchitis
+    Assessment: Likely emphysema/bronchitis based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for emphysema/bronchitis.
+                                                                                                                                                                                                                                                                    ",J44.9
+89,female,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 89-year-old female
+    Presenting complaints: Symptoms related to chf, congestive heart failure
+    Assessment: Likely chf, congestive heart failure based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for chf, congestive heart failure.
+                                                                                                                                                                                                                                                                    ",I50.9
+52,female,"Symptoms related to coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv)","coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 52-year-old female
+    Presenting complaints: Symptoms related to coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv)
+    Assessment: Likely coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv).
+    , for diabetic see endocrine, if related to cardiac arrest, see cv) based on symptoms.
+                                                                                                                                        
+                                                                                                 ",Unknown
+87,female,"Symptoms related to hip replacement, total (non-traumatic)","hip replacement, total (non-traumatic)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 87-year-old female
+    Presenting complaints: Symptoms related to hip replacement, total (non-traumatic)
+    Assessment: Likely hip replacement, total (non-traumatic) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for hip replacement, total (non-traumatic).
+                                                                                                                                                                                                                                                                    ",Unknown
+76,male,"Symptoms related to thrombus, arterial","thrombus, arterial","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 76-year-old male
+    Presenting complaints: Symptoms related to thrombus, arterial
+    Assessment: Likely thrombus, arterial based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for thrombus, arterial.
+                                                                                                                                                                                                                                                                    ",Unknown
+86,female,"Symptoms related to cva, cerebrovascular accident/stroke","cva, cerebrovascular accident/stroke","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 86-year-old female
+    Presenting complaints: Symptoms related to cva, cerebrovascular accident/stroke
+    Assessment: Likely cva, cerebrovascular accident/stroke based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for cva, cerebrovascular accident/stroke.
+                                                                                                                                                                                                                                                                    ",I64
+62,female,"Symptoms related to aneurysm/pseudoaneurysm, other","aneurysm/pseudoaneurysm, other","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 62-year-old female
+    Presenting complaints: Symptoms related to aneurysm/pseudoaneurysm, other
+    Assessment: Likely aneurysm/pseudoaneurysm, other based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for aneurysm/pseudoaneurysm, other.
+                                                                                                               
+
+                                                                                                                                                   ",Unknown
+83,female,Symptoms related to shunts and revisions,shunts and revisions,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 83-year-old female
+    Presenting complaints: Symptoms related to shunts and revisions
+    Assessment: Likely shunts and revisions based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for shunts and revisions.
+                                                                                                                                                                                                                                                                    ",Unknown
+58,male,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 58-year-old male
+    Presenting complaints: Symptoms related to chf, congestive heart failure
+    Assessment: Likely chf, congestive heart failure based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for chf, congestive heart failure.
+                                                                                                                                                                                                                                                                    ",I50.9
+63,female,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 63-year-old female
+    Presenting complaints: Symptoms related to chf, congestive heart failure
+    Assessment: Likely chf, congestive heart failure based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for chf, congestive heart failure.
+                                                                                                                                                                                                                                                                    ",I50.9
+63,male,Symptoms related to diabetic ketoacidosis,diabetic ketoacidosis,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 63-year-old male
+    Presenting complaints: Symptoms related to diabetic ketoacidosis
+    Assessment: Likely diabetic ketoacidosis based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for diabetic ketoacidosis.
+                                                                                                                                                                                                                                                                    ",E10.10
+56,male,"Symptoms related to angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)","angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 56-year-old male
+    Presenting complaints: Symptoms related to angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)
+    Assessment: Likely angina, unstable (angina interferes w/quality of life or meds are tolerated poorly) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for angina, unstable (angina interferes w/quality of life or meds are tolerated poorly).
+                                                     
+                                                                                      
+                                                                                                                       ",I20.0
+54,female,"Symptoms related to neoplasm-cranial, surgery for (excluding transphenoidal)","neoplasm-cranial, surgery for (excluding transphenoidal)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 54-year-old female
+    Presenting complaints: Symptoms related to neoplasm-cranial, surgery for (excluding transphenoidal)
+    Assessment: Likely neoplasm-cranial, surgery for (excluding transphenoidal) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for neoplasm-cranial, surgery for (excluding transphenoidal).
+                                                     
+
+                                                                                                                                                                                                             ",Unknown
+> 89,female,"Symptoms related to pneumonia, viral","pneumonia, viral","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: > 89-year-old female
+    Presenting complaints: Symptoms related to pneumonia, viral
+    Assessment: Likely pneumonia, viral based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for pneumonia, viral.
+                                                                                         ",J12.9
+84,female,"Symptoms related to arrest, respiratory (without cardiac arrest)","arrest, respiratory (without cardiac arrest)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 84-year-old female
+    Presenting complaints: Symptoms related to arrest, respiratory (without cardiac arrest)
+    Assessment: Likely arrest, respiratory (without cardiac arrest) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for arrest, respiratory (without cardiac arrest).
+                                                                                                
+                                                                                                                                                                   ",Unknown
+84,female,"Symptoms related to rhythm disturbance (atrial, supraventricular)","rhythm disturbance (atrial, supraventricular)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 84-year-old female
+    Presenting complaints: Symptoms related to rhythm disturbance (atrial, supraventricular)
+    Assessment: Likely rhythm disturbance (atrial, supraventricular) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for rhythm disturbance (atrial, supraventricular).
+                                                                                                                                                                                                                                                                    ",I49.9
+86,female,"Symptoms related to orthopedic surgery, other","orthopedic surgery, other","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 86-year-old female
+    Presenting complaints: Symptoms related to orthopedic surgery, other
+    Assessment: Likely orthopedic surgery, other based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for orthopedic surgery, other.
+                                                                                                                                                                                                                                                                    ",Unknown
+84,female,Symptoms related to rhythm disturbance (conduction defect),rhythm disturbance (conduction defect),"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 84-year-old female
+    Presenting complaints: Symptoms related to rhythm disturbance (conduction defect)
+    Assessment: Likely rhythm disturbance (conduction defect) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for rhythm disturbance (conduction defect).
+                                                                            
+
+In the case of my wife, I don't have any symptoms, but I can't control for them.
+                                                                                                                                                               ",Unknown
+84,female,Symptoms related to rhythm disturbance (ventricular),rhythm disturbance (ventricular),"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 84-year-old female
+    Presenting complaints: Symptoms related to rhythm disturbance (ventricular)
+    Assessment: Likely rhythm disturbance (ventricular) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for rhythm disturbance (ventricular).
+                                                                                                                                                                                                                                                                    ",Unknown
+73,female,"Symptoms related to hemorrhage/hematoma, intracranial","hemorrhage/hematoma, intracranial","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 73-year-old female
+    Presenting complaints: Symptoms related to hemorrhage/hematoma, intracranial
+    Assessment: Likely hemorrhage/hematoma, intracranial based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for hemorrhage/hematoma, intracranial.
+                                                                                                                                                                                                                                                                    ",Unknown
+74,female,"Symptoms related to sepsis, renal/uti (including bladder)","sepsis, renal/uti (including bladder)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 74-year-old female
+    Presenting complaints: Symptoms related to sepsis, renal/uti (including bladder)
+    Assessment: Likely sepsis, renal/uti (including bladder) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for sepsis, renal/uti (including bladder).
+                                                                                                                                                                                                                                                                    ",Unknown
+81,female,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 81-year-old female
+    Presenting complaints: Symptoms related to chf, congestive heart failure
+    Assessment: Likely chf, congestive heart failure based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for chf, congestive heart failure.
+                                                                                                                                                                                                                                                                    ",I50.9
+55,female,"Symptoms related to overdose, sedatives, hypnotics, antipsychotics, benzodiazepines","overdose, sedatives, hypnotics, antipsychotics, benzodiazepines","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 55-year-old female
+    Presenting complaints: Symptoms related to overdose, sedatives, hypnotics, antipsychotics, benzodiazepines
+    Assessment: Likely overdose, sedatives, hypnotics, antipsychotics, benzodiazepines based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for overdose, sedatives, hypnotics, antipsychotics, benzodiazepines.
+                                                                                                                                                                                                                                                                    ",T43.501A
+64,female,"Symptoms related to sepsis, pulmonary","sepsis, pulmonary","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 64-year-old female
+    Presenting complaints: Symptoms related to sepsis, pulmonary
+    Assessment: Likely sepsis, pulmonary based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for sepsis, pulmonary.
+                                                                                                                                                                                                                                                                    ",Unknown
+58,male,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 58-year-old male
+    Presenting complaints: Symptoms related to chf, congestive heart failure
+    Assessment: Likely chf, congestive heart failure based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for chf, congestive heart failure.
+                                                                
+
+
+                                                                                                                                                                                                 ",I50.9
+54,female,"Symptoms related to rhythm disturbance (atrial, supraventricular)","rhythm disturbance (atrial, supraventricular)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 54-year-old female
+    Presenting complaints: Symptoms related to rhythm disturbance (atrial, supraventricular)
+    Assessment: Likely rhythm disturbance (atrial, supraventricular) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for rhythm disturbance (atrial, supraventricular).
+                                 
+
+                                                                                                                                                                                                                                 ",I49.9
+54,female,"Symptoms related to respiratory - medical, other","respiratory - medical, other","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 54-year-old female
+    Presenting complaints: Symptoms related to respiratory - medical, other
+    Assessment: Likely respiratory - medical, other based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for respiratory - medical, other.
+                                                                                                                                                                                                                                                                    ",Unknown
+83,female,"Symptoms related to sepsis, renal/uti (including bladder)","sepsis, renal/uti (including bladder)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 83-year-old female
+    Presenting complaints: Symptoms related to sepsis, renal/uti (including bladder)
+    Assessment: Likely sepsis, renal/uti (including bladder) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for sepsis, renal/uti (including bladder).
+     
+                                  
+                                                                                                                                                                                                                           ",Unknown
+64,female,Symptoms related to diabetic ketoacidosis,diabetic ketoacidosis,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 64-year-old female
+    Presenting complaints: Symptoms related to diabetic ketoacidosis
+    Assessment: Likely diabetic ketoacidosis based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for diabetic ketoacidosis.
+                                                                                                                                                                                                                                                                    ",E10.10
+67,female,"Symptoms related to respiratory - medical, other","respiratory - medical, other","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 67-year-old female
+    Presenting complaints: Symptoms related to respiratory - medical, other
+    Assessment: Likely respiratory - medical, other based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for respiratory - medical, other.
+                                                                                                                                                                                              
+                                                                     ",Unknown
+80,female,Symptoms related to head only trauma,head only trauma,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 80-year-old female
+    Presenting complaints: Symptoms related to head only trauma
+    Assessment: Likely head only trauma based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for head only trauma.
+                                                                                                                                                                                                                                                                    ",Unknown
+59,female,"Symptoms related to sepsis, unknown","sepsis, unknown","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 59-year-old female
+    Presenting complaints: Symptoms related to sepsis, unknown
+    Assessment: Likely sepsis, unknown based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for sepsis, unknown.
+                                                                                                                                                                                                                                                                    ",Unknown
+59,male,"Symptoms related to sepsis, pulmonary","sepsis, pulmonary","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 59-year-old male
+    Presenting complaints: Symptoms related to sepsis, pulmonary
+    Assessment: Likely sepsis, pulmonary based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for sepsis, pulmonary.
+                                                                                                                                                                                                                                                                    ",Unknown
+54,female,"Symptoms related to respiratory - medical, other","respiratory - medical, other","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 54-year-old female
+    Presenting complaints: Symptoms related to respiratory - medical, other
+    Assessment: Likely respiratory - medical, other based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for respiratory - medical, other.
+                                                           
+                                                                                                                                                                                                        ",Unknown
+45,male,Symptoms related to diabetic ketoacidosis,diabetic ketoacidosis,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 45-year-old male
+    Presenting complaints: Symptoms related to diabetic ketoacidosis
+    Assessment: Likely diabetic ketoacidosis based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for diabetic ketoacidosis.
+                                                                
+                                                                                                                                                                                                   ",E10.10
+37,male,"Symptoms related to sepsis, other","sepsis, other","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 37-year-old male
+    Presenting complaints: Symptoms related to sepsis, other
+    Assessment: Likely sepsis, other based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for sepsis, other.
+                                                                                                                                                                                                                                                                    ",A41.9
+59,male,"Symptoms related to sepsis, other","sepsis, other","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 59-year-old male
+    Presenting complaints: Symptoms related to sepsis, other
+    Assessment: Likely sepsis, other based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for sepsis, other.
+                                                                                                                                                                                                                                                                    ",A41.9
+67,male,"Symptoms related to respiratory - medical, other","respiratory - medical, other","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 67-year-old male
+    Presenting complaints: Symptoms related to respiratory - medical, other
+    Assessment: Likely respiratory - medical, other based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for respiratory - medical, other.
+                                                                                                                                                                                                                                                                    ",Unknown
+41,male,Symptoms related to pancreatitis,pancreatitis,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 41-year-old male
+    Presenting complaints: Symptoms related to pancreatitis
+    Assessment: Likely pancreatitis based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for pancreatitis.
+                                                                                                                                                                                                                                                                    ",Unknown
+52,male,"Symptoms related to bleeding, lower gi","bleeding, lower gi","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 52-year-old male
+    Presenting complaints: Symptoms related to bleeding, lower gi
+    Assessment: Likely bleeding, lower gi based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for bleeding, lower gi.
+                                           
+                                        
+                                                                                                                                                                               ",Unknown
+37,male,"Symptoms related to coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv)","coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 37-year-old male
+    Presenting complaints: Symptoms related to coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv)
+    Assessment: Likely coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv).
+    , for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see gi, for diabetic see",Unknown
+62,female,Symptoms related to seizures (primary-no structural brain disease),seizures (primary-no structural brain disease),"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 62-year-old female
+    Presenting complaints: Symptoms related to seizures (primary-no structural brain disease)
+    Assessment: Likely seizures (primary-no structural brain disease) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for seizures (primary-no structural brain disease).
+                           
+                                                                                                                                                                                                                                        ",Unknown
+50,male,"Symptoms related to thrombus, arterial","thrombus, arterial","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 50-year-old male
+    Presenting complaints: Symptoms related to thrombus, arterial
+    Assessment: Likely thrombus, arterial based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for thrombus, arterial.
+                                        
+                                             
+                                                                                                                                
+                                                    ",Unknown
+54,male,"Symptoms related to infarction, acute myocardial (mi)","infarction, acute myocardial (mi)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 54-year-old male
+    Presenting complaints: Symptoms related to infarction, acute myocardial (mi)
+    Assessment: Likely infarction, acute myocardial (mi) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for infarction, acute myocardial (mi).
+                                                                                                                                                                                                                                                                    ",I21.9
+59,male,"Symptoms related to cabg alone, coronary artery bypass grafting","cabg alone, coronary artery bypass grafting","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 59-year-old male
+    Presenting complaints: Symptoms related to cabg alone, coronary artery bypass grafting
+    Assessment: Likely cabg alone, coronary artery bypass grafting based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for cabg alone, coronary artery bypass grafting.
+                      
+                .............................................................................................................................................................................................................................",Z95.1
+63,female,"Symptoms related to vascular medical, other","vascular medical, other","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 63-year-old female
+    Presenting complaints: Symptoms related to vascular medical, other
+    Assessment: Likely vascular medical, other based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for vascular medical, other.
+     Patient: 54-year-old female
+    Presenting complaints: Symptoms related to vascular medical, other based on symptoms.
+     Patient: 53-year-old female
+    Presenting complaints: Symptoms related to vascular medical, other based on symptoms.
+     Patient: 51-year-old female
+    Presenting complaints: Symptoms related to vascular medical, other based on symptoms.
+      Patient: 51-year-old female
+    Presenting complaints: Symptoms related to vascular medical, other based on symptoms.
+     Patient: 51-year-old female
+    Presenting complaints: Symptoms related to vascular medical, other based on symptoms.
+       Patient: 51-year-old female
+    Presenting complaints: Symptoms related to vascular medical, other based on symptoms.
+      Patient: 51-year-old female
+    Presenting complaints: Symptoms related to vascular medical, other based on symptoms.
+     Patient: 51-year-old female
+    Presenting complaints: Symptoms related to vascular medical, other based on symptoms.
+",Unknown
+50,male,"Symptoms related to aneurysm, dissecting aortic","aneurysm, dissecting aortic","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 50-year-old male
+    Presenting complaints: Symptoms related to aneurysm, dissecting aortic
+    Assessment: Likely aneurysm, dissecting aortic based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for aneurysm, dissecting aortic.
+                                                                                                                                                                                                                                                                    ",Unknown
+70,female,"Symptoms related to cabg alone, coronary artery bypass grafting","cabg alone, coronary artery bypass grafting","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 70-year-old female
+    Presenting complaints: Symptoms related to cabg alone, coronary artery bypass grafting
+    Assessment: Likely cabg alone, coronary artery bypass grafting based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for cabg alone, coronary artery bypass grafting.
+                                                                                                                                                                                                                                                                    ",Z95.1
+78,female,"Symptoms related to graft, all other bypass (except renal)","graft, all other bypass (except renal)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 78-year-old female
+    Presenting complaints: Symptoms related to graft, all other bypass (except renal)
+    Assessment: Likely graft, all other bypass (except renal) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for graft, all other bypass (except renal).
+     Patient: 46-year-old woman
+      Presenting complaints: Symptoms related to graft, all other bypass (except renal) based on symptoms.
+     Patient: 27-year-old woman
+     Presenting complaints: Symptoms related to graft, all other bypass (except renal) based on symptoms.
+     Patient: 46-year-old woman
+      Presenting complaints: Symptoms related to graft, all other bypass (except renal) based on symptoms.
+     Patient: 27-year-old woman
+      Presenting complaints: Symptoms related to graft, all other bypass (except renal) based on symptoms.
+     Patient: 27-year-old woman
+      Presenting complaints: Symptoms related to graft, all other bypass (except renal) based on symptoms.
+     Patient: 27-year-old woman
+      Presenting complaints: Symptoms related to graft, all other bypass (except renal) based on symptoms.
+     Patient: 27-year-old woman
+       Presenting complaints: Symptoms related to graft",Unknown
+69,male,"Symptoms related to monitoring, hemodynamic (pre-operative evaluation)","monitoring, hemodynamic (pre-operative evaluation)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 69-year-old male
+    Presenting complaints: Symptoms related to monitoring, hemodynamic (pre-operative evaluation)
+    Assessment: Likely monitoring, hemodynamic (pre-operative evaluation) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for monitoring, hemodynamic (pre-operative evaluation).
+                                                                                                                                                                                                                                                                    ",Unknown
+73,female,Symptoms related to mitral valve repair,mitral valve repair,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 73-year-old female
+    Presenting complaints: Symptoms related to mitral valve repair
+    Assessment: Likely mitral valve repair based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for mitral valve repair.
+                                    
+                                                                                                                                                                                                                               ",Unknown
+24,male,Symptoms related to endocarditis,endocarditis,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 24-year-old male
+    Presenting complaints: Symptoms related to endocarditis
+    Assessment: Likely endocarditis based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for endocarditis.
+                                                                                                                                                                                                                                                                    ",Unknown
+59,female,"Symptoms related to aneurysm, thoracic aortic","aneurysm, thoracic aortic","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 59-year-old female
+    Presenting complaints: Symptoms related to aneurysm, thoracic aortic
+    Assessment: Likely aneurysm, thoracic aortic based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for aneurysm, thoracic aortic.
+                                                                                                                                                                                                                                                                    ",Unknown
+67,female,"Symptoms related to shock, cardiogenic","shock, cardiogenic","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 67-year-old female
+    Presenting complaints: Symptoms related to shock, cardiogenic
+    Assessment: Likely shock, cardiogenic based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for shock, cardiogenic.
+                                                                                                                                                                                                                                                                    ",Unknown
+65,female,Symptoms related to mi admitted > 24 hrs after onset of ischemia,mi admitted > 24 hrs after onset of ischemia,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 65-year-old female
+    Presenting complaints: Symptoms related to mi admitted > 24 hrs after onset of ischemia
+    Assessment: Likely mi admitted > 24 hrs after onset of ischemia based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for mi admitted > 24 hrs after onset of ischemia.
+      All Patient: 19-year-old female
+      Presenting complaints: Symptoms related to mi admitted > 24 hrs after onset of ischemia based on symptoms.
+     
+    Test: Likely mi admitted > 24 hrs after onset of ischemia based on symptoms.
+      
+     
+  All Patient: 25-year-old female
+      Presenting complaints: Symptoms related to mi admitted > 24 hrs after onset of ischemia based on symptoms.
+       
+         
+            
+              
+                                                                                           ",I21.4
+81,female,"Symptoms related to bleeding, upper gi","bleeding, upper gi","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 81-year-old female
+    Presenting complaints: Symptoms related to bleeding, upper gi
+    Assessment: Likely bleeding, upper gi based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for bleeding, upper gi.
+                                                                                                                                                                                                                                                                    ",Unknown
+55,male,Symptoms related to heart transplant,heart transplant,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 55-year-old male
+    Presenting complaints: Symptoms related to heart transplant
+    Assessment: Likely heart transplant based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for heart transplant.
+                                                                              *
+
+                                       
+                                                                                                                                            ",Unknown
+80,female,Symptoms related to aortic valve replacement (isolated),aortic valve replacement (isolated),"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 80-year-old female
+    Presenting complaints: Symptoms related to aortic valve replacement (isolated)
+    Assessment: Likely aortic valve replacement (isolated) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for aortic valve replacement (isolated).
+                                                                                                                                                                                                                                                                    ",Z95.2
+74,female,"Symptoms related to hypertension, uncontrolled (for cerebrovascular accident-see neurological system)","hypertension, uncontrolled (for cerebrovascular accident-see neurological system)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 74-year-old female
+    Presenting complaints: Symptoms related to hypertension, uncontrolled (for cerebrovascular accident-see neurological system)
+    Assessment: Likely hypertension, uncontrolled (for cerebrovascular accident-see neurological system) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for hypertension, uncontrolled (for cerebrovascular accident-see neurological system).
+                                                                                                                                                                                                                                                                    ",I10
+21,female,"Symptoms related to overdose, street drugs (opiates, cocaine, amphetamine)","overdose, street drugs (opiates, cocaine, amphetamine)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 21-year-old female
+    Presenting complaints: Symptoms related to overdose, street drugs (opiates, cocaine, amphetamine)
+    Assessment: Likely overdose, street drugs (opiates, cocaine, amphetamine) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for overdose, street drugs (opiates, cocaine, amphetamine).
+                                                                                                                                                                                                                                                                    ",Unknown
+39,female,Symptoms related to diabetic ketoacidosis,diabetic ketoacidosis,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 39-year-old female
+    Presenting complaints: Symptoms related to diabetic ketoacidosis
+    Assessment: Likely diabetic ketoacidosis based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for diabetic ketoacidosis.
+                                                                                                                                                                                                                                                                    ",E10.10
+50,male,"Symptoms related to bleeding, upper gi","bleeding, upper gi","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 50-year-old male
+    Presenting complaints: Symptoms related to bleeding, upper gi
+    Assessment: Likely bleeding, upper gi based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for bleeding, upper gi.
+                                                                                                                                                                                                                                                                    ",Unknown
+61,female,"Symptoms related to angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)","angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 61-year-old female
+    Presenting complaints: Symptoms related to angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)
+    Assessment: Likely angina, unstable (angina interferes w/quality of life or meds are tolerated poorly) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for angina, unstable (angina interferes w/quality of life or meds are tolerated poorly).
+                                                                                                                                                                                                                                                                    ",I20.0
+77,female,"Symptoms related to bleeding, lower gi","bleeding, lower gi","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 77-year-old female
+    Presenting complaints: Symptoms related to bleeding, lower gi
+    Assessment: Likely bleeding, lower gi based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for bleeding, lower gi.
+                                                                                                                                                                                                                                                                    ",Unknown
+54,male,"Symptoms related to infarction, acute myocardial (mi)","infarction, acute myocardial (mi)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 54-year-old male
+    Presenting complaints: Symptoms related to infarction, acute myocardial (mi)
+    Assessment: Likely infarction, acute myocardial (mi) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for infarction, acute myocardial (mi).
+                                                                                                                                                                                                                                                                    ",I21.9
+53,female,"Symptoms related to hematoma, subdural","hematoma, subdural","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 53-year-old female
+    Presenting complaints: Symptoms related to hematoma, subdural
+    Assessment: Likely hematoma, subdural based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for hematoma, subdural.
+                                    
+                                                                                                                                                                                                                               ",Unknown
+86,female,"Symptoms related to bleeding, gi-location unknown","bleeding, gi-location unknown","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 86-year-old female
+    Presenting complaints: Symptoms related to bleeding, gi-location unknown
+    Assessment: Likely bleeding, gi-location unknown based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for bleeding, gi-location unknown.
+     
+                                                                                                                                                                                                                                                              ",Unknown
+72,female,"Symptoms related to cancer, pancreatic","cancer, pancreatic","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 72-year-old female
+    Presenting complaints: Symptoms related to cancer, pancreatic
+    Assessment: Likely cancer, pancreatic based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for cancer, pancreatic.
+      . View patient history data as part of initial clinical assessment.
+         . View patient history data as part of initial clinical assessment.
+           . View patient profile data as part of initial clinical assessment.
+                                                                                                                                                                                                   ",Unknown
+64,female,Symptoms related to myasthenia gravis,myasthenia gravis,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 64-year-old female
+    Presenting complaints: Symptoms related to myasthenia gravis
+    Assessment: Likely myasthenia gravis based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for myasthenia gravis.
+                                                                                                                                                                                                                                                                    ",Unknown
+73,female,"Symptoms related to infarction, acute myocardial (mi)","infarction, acute myocardial (mi)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 73-year-old female
+    Presenting complaints: Symptoms related to infarction, acute myocardial (mi)
+    Assessment: Likely infarction, acute myocardial (mi) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for infarction, acute myocardial (mi).
+         If necessary: Patients present symptoms in the third month of the third month of the first month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the third month of the",I21.9
+77,female,"Symptoms related to rhythm disturbance (atrial, supraventricular)","rhythm disturbance (atrial, supraventricular)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 77-year-old female
+    Presenting complaints: Symptoms related to rhythm disturbance (atrial, supraventricular)
+    Assessment: Likely rhythm disturbance (atrial, supraventricular) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for rhythm disturbance (atrial, supraventricular).
+                                                                                                                                                                                                                                                                    ",I49.9
+41,female,"Symptoms related to hypovolemia (including dehydration, do not include shock states)","hypovolemia (including dehydration, do not include shock states)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 41-year-old female
+    Presenting complaints: Symptoms related to hypovolemia (including dehydration, do not include shock states)
+    Assessment: Likely hypovolemia (including dehydration, do not include shock states) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for hypovolemia (including dehydration, do not include shock states).
+                                                                                                                                                                                                                                                                    ",Unknown
+65,female,Symptoms related to hypoglycemia,hypoglycemia,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 65-year-old female
+    Presenting complaints: Symptoms related to hypoglycemia
+    Assessment: Likely hypoglycemia based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for hypoglycemia.
+                                                                                                                                                                                                                                                                    ",Unknown
+> 89,female,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: > 89-year-old female
+    Presenting complaints: Symptoms related to chf, congestive heart failure
+    Assessment: Likely chf, congestive heart failure based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for chf, congestive heart failure.
+                                                                                                                                                                                                                                                                    ",I50.9
+89,male,Symptoms related to subarachnoid hemorrhage/intracranial aneurysm,subarachnoid hemorrhage/intracranial aneurysm,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 89-year-old male
+    Presenting complaints: Symptoms related to subarachnoid hemorrhage/intracranial aneurysm
+    Assessment: Likely subarachnoid hemorrhage/intracranial aneurysm based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for subarachnoid hemorrhage/intracranial aneurysm.
+                                                                                                                                                                                                                                                                    ",Unknown
+81,female,"Symptoms related to rhythm disturbance (atrial, supraventricular)","rhythm disturbance (atrial, supraventricular)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 81-year-old female
+    Presenting complaints: Symptoms related to rhythm disturbance (atrial, supraventricular)
+    Assessment: Likely rhythm disturbance (atrial, supraventricular) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for rhythm disturbance (atrial, supraventricular).
+                                                                                                                                                                                                                                                                    ",I49.9
+81,female,"Symptoms related to rhythm disturbance (atrial, supraventricular)","rhythm disturbance (atrial, supraventricular)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 81-year-old female
+    Presenting complaints: Symptoms related to rhythm disturbance (atrial, supraventricular)
+    Assessment: Likely rhythm disturbance (atrial, supraventricular) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for rhythm disturbance (atrial, supraventricular).
+                                                                                                                                                                         
+                                                                                          ",I49.9
+59,female,"Symptoms related to neurologic surgery, other","neurologic surgery, other","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 59-year-old female
+    Presenting complaints: Symptoms related to neurologic surgery, other
+    Assessment: Likely neurologic surgery, other based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for neurologic surgery, other.
+                                                                                                                                                                                                                                                                     ",Unknown
+> 89,female,"Symptoms related to sepsis, renal/uti (including bladder)","sepsis, renal/uti (including bladder)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: > 89-year-old female
+    Presenting complaints: Symptoms related to sepsis, renal/uti (including bladder)
+    Assessment: Likely sepsis, renal/uti (including bladder) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for sepsis, renal/uti (including bladder).
+                                                                                                               
+
+                                                                                                                                                   ",Unknown
+42,male,"Symptoms related to ards-adult respiratory distress syndrome, non-cardiogenic pulmonary edema","ards-adult respiratory distress syndrome, non-cardiogenic pulmonary edema","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 42-year-old male
+    Presenting complaints: Symptoms related to ards-adult respiratory distress syndrome, non-cardiogenic pulmonary edema
+    Assessment: Likely ards-adult respiratory distress syndrome, non-cardiogenic pulmonary edema based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for ards-adult respiratory distress syndrome, non-cardiogenic pulmonary edema.
+                                                                                                                                                                                                                                                                    ",Unknown
+76,male,"Symptoms related to infection/abscess, other surgery for","infection/abscess, other surgery for","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 76-year-old male
+    Presenting complaints: Symptoms related to infection/abscess, other surgery for
+    Assessment: Likely infection/abscess, other surgery for based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for infection/abscess, other surgery for.
+                                                                                                                                                                                                                                                                    ",Unknown
+76,male,"Symptoms related to esophageal surgery, other","esophageal surgery, other","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 76-year-old male
+    Presenting complaints: Symptoms related to esophageal surgery, other
+    Assessment: Likely esophageal surgery, other based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for esophageal surgery, other.
+                                                                                                                                                                                                                                                                    ",Unknown
+82,female,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 82-year-old female
+    Presenting complaints: Symptoms related to chf, congestive heart failure
+    Assessment: Likely chf, congestive heart failure based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for chf, congestive heart failure.
+                                                                                                                                                                                                                                                                    ",I50.9
+38,female,"Symptoms related to ards-adult respiratory distress syndrome, non-cardiogenic pulmonary edema","ards-adult respiratory distress syndrome, non-cardiogenic pulmonary edema","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 38-year-old female
+    Presenting complaints: Symptoms related to ards-adult respiratory distress syndrome, non-cardiogenic pulmonary edema
+    Assessment: Likely ards-adult respiratory distress syndrome, non-cardiogenic pulmonary edema based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for ards-adult respiratory distress syndrome, non-cardiogenic pulmonary edema.
+                                                 
+                                                                                                                                                                                                                  ",Unknown
+72,female,"Symptoms related to pneumonia, bacterial","pneumonia, bacterial","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 72-year-old female
+    Presenting complaints: Symptoms related to pneumonia, bacterial
+    Assessment: Likely pneumonia, bacterial based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for pneumonia, bacterial.
+     Patient: 64-year-old female
+      Presenting complaints: Symptoms relating to pneumonia, bacterial based on symptoms.
+                                                                                                                                                                                                                                   ",J18.9
+81,male,Symptoms related to aortic valve replacement (isolated),aortic valve replacement (isolated),"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 81-year-old male
+    Presenting complaints: Symptoms related to aortic valve replacement (isolated)
+    Assessment: Likely aortic valve replacement (isolated) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for aortic valve replacement (isolated).
+                                        
+                                                                                                                                                                                                                           ",Z95.2
+60,female,Symptoms related to renal infection/abscess,renal infection/abscess,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 60-year-old female
+    Presenting complaints: Symptoms related to renal infection/abscess
+    Assessment: Likely renal infection/abscess based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for renal infection/abscess.
+                                     
+
+                                                                                                                                                                                                                             ",Unknown
+76,male,"Symptoms related to coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv)","coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 76-year-old male
+    Presenting complaints: Symptoms related to coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv)
+    Assessment: Likely coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv).
+    , for diabetic see endocrine, if related to cardiac arrest, see cv) based on symptoms.
+                                                                                               
+                                                                                                                                          ",Unknown
+39,female,Symptoms related to heart transplant,heart transplant,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 39-year-old female
+    Presenting complaints: Symptoms related to heart transplant
+    Assessment: Likely heart transplant based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for heart transplant.
+      Patient: 6-year-old male
+                                                                                                                                                                                                                                                      ",Unknown
+46,male,"Symptoms related to sepsis, other","sepsis, other","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 46-year-old male
+    Presenting complaints: Symptoms related to sepsis, other
+    Assessment: Likely sepsis, other based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for sepsis, other.
+                                                                                                                                                                                                                                                                    ",A41.9
+56,female,Symptoms related to emphysema/bronchitis,emphysema/bronchitis,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 56-year-old female
+    Presenting complaints: Symptoms related to emphysema/bronchitis
+    Assessment: Likely emphysema/bronchitis based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for emphysema/bronchitis.
+                                                                                                                                                                                                                                                                    ",J44.9
+74,female,"Symptoms related to fracture-pathological, non-union, non-traumatic, for fractures due to trauma see trauma","fracture-pathological, non-union, non-traumatic, for fractures due to trauma see trauma","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 74-year-old female
+    Presenting complaints: Symptoms related to fracture-pathological, non-union, non-traumatic, for fractures due to trauma see trauma
+    Assessment: Likely fracture-pathological, non-union, non-traumatic, for fractures due to trauma see trauma based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for fracture-pathological, non-union, non-traumatic, for fractures due to trauma see trauma.
+        Patient: 48-year-old woman
+                                                                                                                                                                                     
+
+                                                             ",Unknown
+64,female,"Symptoms related to respiratory - medical, other","respiratory - medical, other","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 64-year-old female
+    Presenting complaints: Symptoms related to respiratory - medical, other
+    Assessment: Likely respiratory - medical, other based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for respiratory - medical, other.
+                                                                                                                                                                                                                                                                    ",Unknown
+69,female,Symptoms related to whipple-surgery for pancreatic cancer,whipple-surgery for pancreatic cancer,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 69-year-old female
+    Presenting complaints: Symptoms related to whipple-surgery for pancreatic cancer
+    Assessment: Likely whipple-surgery for pancreatic cancer based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for whipple-surgery for pancreatic cancer.
+                                                                              
+                                                                                                                                                                                     ",Unknown
+73,female,"Symptoms related to bleeding, gi-location unknown","bleeding, gi-location unknown","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 73-year-old female
+    Presenting complaints: Symptoms related to bleeding, gi-location unknown
+    Assessment: Likely bleeding, gi-location unknown based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for bleeding, gi-location unknown.
+                                                                                                              
+
+                                                                                                                                                    ",Unknown
+76,female,Symptoms related to cardiac arrest (with or without respiratory arrest; for respiratory arrest see respiratory system),cardiac arrest (with or without respiratory arrest; for respiratory arrest see respiratory system),"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 76-year-old female
+    Presenting complaints: Symptoms related to cardiac arrest (with or without respiratory arrest; for respiratory arrest see respiratory system)
+    Assessment: Likely cardiac arrest (with or without respiratory arrest; for respiratory arrest see respiratory system) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for cardiac arrest (with or without respiratory arrest; for respiratory arrest see respiratory system).
+                                                                                                                                                                                                                                                                    ",Unknown
+61,female,Symptoms related to hemorrhage (for gastrointestinal bleeding gi-see gi system) (for trauma see trauma),hemorrhage (for gastrointestinal bleeding gi-see gi system) (for trauma see trauma),"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 61-year-old female
+    Presenting complaints: Symptoms related to hemorrhage (for gastrointestinal bleeding gi-see gi system) (for trauma see trauma)
+    Assessment: Likely hemorrhage (for gastrointestinal bleeding gi-see gi system) (for trauma see trauma) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for hemorrhage (for gastrointestinal bleeding gi-see gi system) (for trauma see trauma).
+                                                                                                                                                                                                                                                                    ",Unknown
+34,female,Symptoms related to cesarean section,cesarean section,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 34-year-old female
+    Presenting complaints: Symptoms related to cesarean section
+    Assessment: Likely cesarean section based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for cesarean section.
+                                                                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",Unknown
+63,female,"Symptoms related to angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)","angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 63-year-old female
+    Presenting complaints: Symptoms related to angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)
+    Assessment: Likely angina, unstable (angina interferes w/quality of life or meds are tolerated poorly) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for angina, unstable (angina interferes w/quality of life or meds are tolerated poorly).
+                                                                                                                           
+                                                                                                                                        ",I20.0
+70,female,Symptoms related to mi admitted > 24 hrs after onset of ischemia,mi admitted > 24 hrs after onset of ischemia,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 70-year-old female
+    Presenting complaints: Symptoms related to mi admitted > 24 hrs after onset of ischemia
+    Assessment: Likely mi admitted > 24 hrs after onset of ischemia based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for mi admitted > 24 hrs after onset of ischemia.
+                           
+      
+                    
+                                                                                                                                                                                                            ",I21.4
+66,female,Symptoms related to aortic valve replacement (isolated),aortic valve replacement (isolated),"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 66-year-old female
+    Presenting complaints: Symptoms related to aortic valve replacement (isolated)
+    Assessment: Likely aortic valve replacement (isolated) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for aortic valve replacement (isolated).
+                                                                                                                                                                                                                                                                    ",Z95.2
+75,female,Symptoms related to cabg with other operation,cabg with other operation,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 75-year-old female
+    Presenting complaints: Symptoms related to cabg with other operation
+    Assessment: Likely cabg with other operation based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for cabg with other operation.
+                                                                                                                                                                         
+                                                                                          ",Z95.1
+68,female,"Symptoms related to cabg alone, coronary artery bypass grafting","cabg alone, coronary artery bypass grafting","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 68-year-old female
+    Presenting complaints: Symptoms related to cabg alone, coronary artery bypass grafting
+    Assessment: Likely cabg alone, coronary artery bypass grafting based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for cabg alone, coronary artery bypass grafting.
+                                                                                                                                                                                                                                                                    ",Z95.1
+58,female,Symptoms related to aortic and mitral valve replacement,aortic and mitral valve replacement,"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 58-year-old female
+    Presenting complaints: Symptoms related to aortic and mitral valve replacement
+    Assessment: Likely aortic and mitral valve replacement based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for aortic and mitral valve replacement.
+                                                                                                                                                                                                                                                                    ",Z95.3
+61,male,Symptoms related to aortic valve replacement (isolated),aortic valve replacement (isolated),"
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 61-year-old male
+    Presenting complaints: Symptoms related to aortic valve replacement (isolated)
+    Assessment: Likely aortic valve replacement (isolated) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for aortic valve replacement (isolated).
+                                       Notes: No medication is needed and/or is not necessary.
+                                                       
+                                             
+                                                                                                          ",Z95.2
+58,female,"Symptoms related to cabg alone, coronary artery bypass grafting","cabg alone, coronary artery bypass grafting","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 58-year-old female
+    Presenting complaints: Symptoms related to cabg alone, coronary artery bypass grafting
+    Assessment: Likely cabg alone, coronary artery bypass grafting based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for cabg alone, coronary artery bypass grafting.
+                                                                                                                                                                                                                                                                    ",Z95.1
+44,female,"Symptoms related to aneurysm, thoracic aortic; with dissection","aneurysm, thoracic aortic; with dissection","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 44-year-old female
+    Presenting complaints: Symptoms related to aneurysm, thoracic aortic; with dissection
+    Assessment: Likely aneurysm, thoracic aortic; with dissection based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for aneurysm, thoracic aortic; with dissection.
+       Assessment: Possible aneurysm, thoracic aortic; with dissection based on symptoms.
+       Assessment: Possible aneurysm, thoracic aortic; with dissection based on symptoms.
+                                                                                                                                                                                                          ",I71.0
+76,female,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 76-year-old female
+    Presenting complaints: Symptoms related to chf, congestive heart failure
+    Assessment: Likely chf, congestive heart failure based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for chf, congestive heart failure.
+                                                                                                                                                                                                                                                                    ",I50.9
+56,male,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 56-year-old male
+    Presenting complaints: Symptoms related to chf, congestive heart failure
+    Assessment: Likely chf, congestive heart failure based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for chf, congestive heart failure.
+                                                                                                                                                                                                                                                                    ",I50.9
+59,male,"Symptoms related to pneumonia, viral","pneumonia, viral","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 59-year-old male
+    Presenting complaints: Symptoms related to pneumonia, viral
+    Assessment: Likely pneumonia, viral based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for pneumonia, viral.
+                                                                                                                                                                                                                                                                    ",J12.9
+67,female,"Symptoms related to sepsis, other","sepsis, other","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 67-year-old female
+    Presenting complaints: Symptoms related to sepsis, other
+    Assessment: Likely sepsis, other based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for sepsis, other.
+                                                                                                                                                                                                                                                                    ",A41.9
+86,female,"Symptoms related to rhythm disturbance (atrial, supraventricular)","rhythm disturbance (atrial, supraventricular)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 86-year-old female
+    Presenting complaints: Symptoms related to rhythm disturbance (atrial, supraventricular)
+    Assessment: Likely rhythm disturbance (atrial, supraventricular) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for rhythm disturbance (atrial, supraventricular).
+                                                           
+                                                                                                                                                                                                        ",I49.9
+56,male,"Symptoms related to infarction, acute myocardial (mi)","infarction, acute myocardial (mi)","
+    You are a clinical documentation assistant. Given the following patient data, write a clinical note in proper medical format.
+    Patient: 56-year-old male
+    Presenting complaints: Symptoms related to infarction, acute myocardial (mi)
+    Assessment: Likely infarction, acute myocardial (mi) based on symptoms.
+    Plan: Recommend further evaluation and treatment as appropriate for infarction, acute myocardial (mi).
+                                                                                                                                                                                                                                                                    ",I21.9
