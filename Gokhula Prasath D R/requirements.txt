@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+google-generativeai
+fpdf
+opencv-python
+tensorflow
+scikit-learn
+reportlab
+sqlite3
+Pillow

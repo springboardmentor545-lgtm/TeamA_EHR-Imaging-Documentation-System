@@ -1,0 +1,25 @@
+age,gender,symptoms,diagnosis,clinical_note,icd10_code
+45,male,"Symptoms related to hypertension, uncontrolled (for cerebrovascular accident-see neurological system)","hypertension, uncontrolled (for cerebrovascular accident-see neurological system)","**Clinical Note**
+
+**Patient:**  
+45-year-old male
+
+**Presenting Complaints:**  
+The patient presents with symptoms related to uncontrolled hypertension, which has been exacerbated recently. He reports experiencing severe headaches, occasional dizziness, and blurred vision. The patient has a history of hypertension and has not been compliant with his medication regimen. He also mentions feeling fatigued and has had episodes of shortness of breath during physical activity. There are concerns regarding a possible cerebrovascular accident (CVA) given the neurological symptoms.
+
+**Assessment:**  
+- **Vital Signs:** Blood pressure measured at 190/110 mmHg, heart rate 88 bpm, respiratory rate 16 breaths/min, temperature 98.6°F.
+- **Neurological Examination:** The patient is alert and oriented. Cranial nerves II-XII are grossly intact. No focal neurological deficits noted at this time, but the patient reports transient episodes of weakness in the right arm.
+- **Cardiovascular Examination:** Regular rhythm,","The most appropriate ICD-10 code for ""hypertension, uncontrolled"" is **I10** for"
+50,male,Symptoms related to ablation or mapping of cardiac conduction pathway,ablation or mapping of cardiac conduction pathway,"**Clinical Note**
+
+**Patient:**  
+50-year-old male
+
+**Presenting Complaints:**  
+The patient presents with symptoms related to the ablation or mapping of the cardiac conduction pathway. He reports experiencing palpitations, occasional dizziness, and shortness of breath during physical activity. The patient has a history of atrial fibrillation and has undergone previous cardiac interventions. He expresses concern about the effectiveness of his current management plan and is seeking further evaluation and treatment options.
+
+**Assessment:**  
+- **History:** The patient has a significant history of atrial fibrillation, with episodes occurring intermittently over the past few years. He has previously undergone antiarrhythmic therapy and catheter ablation without complete resolution of symptoms. 
+- **Physical Examination:** Vital signs are stable. Cardiac examination reveals a regular rhythm with no murmurs. There is no evidence of heart failure. 
+- **Electrocardiogram (ECG):** Shows intermittent atrial fibrillation with rapid ventricular response.","The most appropriate ICD-10 code for the diagnosis ""ablation or mapping of cardiac conduction pathway"""
