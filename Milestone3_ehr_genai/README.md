@@ -142,5 +142,5 @@ Fallback is always provided:
 * **Documentation:** Wrote detailed milestone report & README.
 
 
-Would you like me to also **add usage examples with sample input & output snippets directly in the README**, so it’s easier for your mentor to test quickly without opening the docs?
+
 
