@@ -1,5 +1,5 @@
 # AI-Powered Enhanced EHR Imaging & Documentation System
-Milestone 1: Data Collection and Preprocessing
+# Milestone 1: Data Collection and Preprocessing
 
 📌 Objective
 
@@ -90,7 +90,7 @@ Enhancing_EHRs_with_GenAI/
 
 •	Mapping file linking imaging IDs ↔ EHR records.
 
-Milestone 2: Medical Imaging Enhancement
+# Milestone 2: Medical Imaging Enhancement
 
 📌 Project Overview
 
@@ -163,7 +163,7 @@ Visual evaluation proved more reliable than metrics (due to limited ground-truth
 Hybrid approach (Classical + GenAI) achieved the best overall results.
 
 
-Milestone 3: Clinical Note Generation & amp; ICD-10 Coding Automation
+# Milestone 3: Clinical Note Generation & amp; ICD-10 Coding Automation
 
 
 ## 📌 Project Overview
@@ -176,7 +176,7 @@ The system integrates three core components:
 3. **End-to-End Pipeline** – From raw patient data → AI-generated notes → ICD-10 mapping → final structured output.
 
 
-## 📂 Repository Structure
+ 📂 Repository Structure
 
 milestone3_ehr_genai/
 
