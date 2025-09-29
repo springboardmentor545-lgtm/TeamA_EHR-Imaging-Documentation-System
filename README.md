@@ -163,7 +163,7 @@ Visual evaluation proved more reliable than metrics (due to limited ground-truth
 Hybrid approach (Classical + GenAI) achieved the best overall results.
 
 
-# Milestone 3: Clinical Note Generation & amp; ICD-10 Coding Automation
+# Milestone 3: Clinical Note Generation & ICD-10 Coding Automation
 
 
 ## 📌 Project Overview
