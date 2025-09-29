@@ -1,1 +1,51 @@
+# config.yaml
 
+# --- System and Data Configuration ---
+DATA_PATH: 'datasets/master_metadata.csv'
+IMAGE_TARGET_SIZE: [256, 256]
+RANDOM_SEED: 42
+
+# --- Model Parameters ---
+
+# Super-Resolution Convolutional Neural Network (SRCNN)
+SRCNN_LAYERS:
+  - filters: 64
+    kernel_size: 9
+    activation: 'relu'
+  - filters: 32
+    kernel_size: 1
+    activation: 'relu'
+  - filters: 1
+    kernel_size: 5
+    activation: 'linear'
+SRCNN_OPTIMIZER: 'adam'
+SRCNN_LOSS: 'mse'
+
+# Cardiac Classification CNN (Placeholder architecture)
+CLASSIFICATION_INPUT_SHAPE: [256, 256, 1]
+CLASSIFICATION_OUTPUT_CLASSES: 5
+CLASSIFICATION_OPTIMIZER: 'adam'
+CLASSIFICATION_LOSS: 'categorical_crossentropy'
+CLASSIFICATION_METRICS: ['accuracy']
+
+# --- Classification Rules (Risk Thresholds) ---
+RISK_THRESHOLDS:
+  NORMAL: 0.3
+  CORONARY_ARTERY_DISEASE: 0.5
+  ARRHYTHMIA: 0.7
+  CARDIOMYOPATHY: 0.8
+
+# --- ICD-10 Codes ---
+ICD10_CODES:
+  normal: 'Z00'
+  coronary_artery_disease: 'I25'
+  arrhythmia: 'I49'
+  cardiomyopathy: 'I42'
+  myocardial_infarction: 'I21'
+  heart_failure: 'I50'
+  valvular_heart_disease: 'I35'
+
+# --- Report Settings ---
+REPORT_DOCTOR_NAME: 'John Doe'
+REPORT_SYSTEM_VERSION: 'AI Cardiac Analysis System v2.0'
+REPORT_FILENAME_PREFIX: 'Cardiac_Report_'
