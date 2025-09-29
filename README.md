@@ -1,3 +1,4 @@
+# AI-Powered Enhanced EHR Imaging & Documentation System
 Milestone 1: Data Collection and Preprocessing
 
 📌 Objective
@@ -164,7 +165,6 @@ Hybrid approach (Classical + GenAI) achieved the best overall results.
 
 Milestone 3: Clinical Note Generation & amp; ICD-10 Coding Automation
 
-# AI-Powered Enhanced EHR Imaging & Documentation System
 
 ## 📌 Project Overview
 
