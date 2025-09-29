@@ -1,0 +1,170 @@
+age,gender,symptoms,diagnosis,clinical_note,icd10_code
+45,male,"Symptoms related to hypertension, uncontrolled (for cerebrovascular accident-see neurological system)","hypertension, uncontrolled (for cerebrovascular accident-see neurological system)","**Clinical Note**
+
+**Patient:**  
+45-year-old male
+
+**Presenting Complaints:**  
+The patient presents with symptoms related to uncontrolled hypertension, which has led to a cerebrovascular accident (CVA). He reports experiencing severe headaches, dizziness, and episodes of blurred vision. The patient also mentions a recent episode of weakness on the right side of his body, which prompted his visit. He has a history of hypertension but has not been compliant with his medication regimen.
+
+**Assessment:**  
+- **Vital Signs:** Blood pressure significantly elevated at 190/110 mmHg. Heart rate is 88 bpm, respiratory rate is 16 breaths/min, and oxygen saturation is 98% on room air.
+- **Neurological Examination:** The patient exhibits right-sided weakness (motor strength 3/5 in the right upper and lower extremities). Sensation is diminished on the right side. Reflexes are brisk on the right side. No facial droop noted.
+- **Cardiovascular Examination:**","The most appropriate ICD-10 code for ""hypertension, uncontrolled"" is **I10** for"
+50,male,Symptoms related to ablation or mapping of cardiac conduction pathway,ablation or mapping of cardiac conduction pathway,"**Clinical Note**
+
+**Patient:**  
+50-year-old male
+
+**Presenting Complaints:**  
+The patient presents with symptoms related to the ablation or mapping of the cardiac conduction pathway. He reports experiencing palpitations, occasional dizziness, and shortness of breath during exertion. The patient has a history of paroxysmal atrial fibrillation and has undergone previous electrophysiological studies. He expresses concern about the effectiveness of his current management plan and is seeking further evaluation and potential intervention.
+
+**Assessment:**  
+- **History:** The patient has a significant history of atrial fibrillation, with episodes occurring more frequently over the past few months. He has been compliant with his prescribed antiarrhythmic medications but continues to experience symptomatic episodes.
+- **Physical Examination:** Vital signs are stable. Cardiac examination reveals a regular rhythm with no murmurs. There is no evidence of heart failure. The patient is in no acute distress.
+- **Electrocardiogram (ECG):","The most appropriate ICD-10 code for the diagnosis ""ablation or mapping of cardiac conduction pathway"""
+83,male,"Symptoms related to endarterectomy, carotid","endarterectomy, carotid","**Clinical Note**
+
+**Patient:**  
+- 83-year-old male
+
+**Presenting Complaints:**  
+- The patient presents with symptoms related to recent carotid endarterectomy.  
+- Complaints include:  
+  - Mild headache localized to the left side of the head.  
+  - Occasional dizziness when standing up.  
+  - Slight weakness in the right arm, which the patient describes as intermittent.  
+  - No speech difficulties or visual changes reported.  
+  - Denies chest pain, shortness of breath, or palpitations.  
+
+**Assessment:**  
+- The patient is an 83-year-old male who has undergone carotid endarterectomy.  
+- Neurological examination reveals:  
+  - Cranial nerves II-XII are intact.  
+  - Motor strength is 4/5 in the right upper extremity, 5/5 in the left.  
+  - Sensation is intact bilaterally.  
+  - Gait is steady,","The most appropriate ICD-10 code for ""endarterectomy, carotid"" is **Z98"
+49,male,"Symptoms related to infarction, acute myocardial (mi)","infarction, acute myocardial (mi)","**Clinical Note**
+
+**Patient:**  
+49-year-old male
+
+**Presenting Complaints:**  
+The patient presents with acute chest pain, described as a pressure-like sensation radiating to the left arm and jaw. He reports associated symptoms of shortness of breath, diaphoresis, and nausea. The onset of symptoms was sudden, occurring approximately 30 minutes prior to arrival. The patient has a history of hypertension and hyperlipidemia but is not currently on any medications.
+
+**Assessment:**  
+- **Vital Signs:**  
+  - Blood Pressure: 150/90 mmHg  
+  - Heart Rate: 102 bpm  
+  - Respiratory Rate: 22 breaths/min  
+  - Oxygen Saturation: 95% on room air  
+- **Physical Examination:**  
+  - General: Patient appears anxious and in moderate distress.  
+  - Cardiovascular: Tachycardic, regular rhythm, no murmurs.  
+  - Respiratory: Clear to auscultation bilater","The most appropriate ICD-10 code for ""acute myocardial infarction"" is **I21.9"
+57,male,"Symptoms related to cabg alone, coronary artery bypass grafting","cabg alone, coronary artery bypass grafting","**Clinical Note**
+
+**Patient:**  
+57-year-old male
+
+**Presenting Complaints:**  
+The patient presents with symptoms related to coronary artery bypass grafting (CABG). He reports chest discomfort, fatigue, and shortness of breath, particularly with exertion. The patient also mentions mild swelling in his lower extremities and occasional palpitations. He denies any recent changes in his medication regimen or new symptoms such as fever or significant weight gain.
+
+**Assessment:**  
+- **History:** The patient has a history of coronary artery disease and underwent CABG surgery approximately 6 weeks ago. He has been compliant with his post-operative care and rehabilitation program.
+- **Physical Examination:** 
+  - Vital signs: BP 130/80 mmHg, HR 78 bpm, RR 16 breaths/min, SpO2 96% on room air.
+  - Cardiac exam: Regular rhythm, no murmurs, distant heart sounds noted.
+  - Respiratory exam: Clear to auscult","The most appropriate ICD-10 code for ""CABG alone, coronary artery bypass grafting"" is"
+80,female,Symptoms related to emphysema/bronchitis,emphysema/bronchitis,"**Clinical Note**
+
+**Patient:**  
+80-year-old female
+
+**Presenting Complaints:**  
+The patient presents with a history of chronic cough, increased sputum production, and shortness of breath, particularly with exertion. She reports wheezing and chest tightness, especially during the night. The patient has a history of smoking for over 40 years and has been experiencing worsening symptoms over the past few months. She denies any fever, chills, or recent respiratory infections.
+
+**Assessment:**  
+- **Diagnosis:** Emphysema/Bronchitis (COPD)
+- **Vital Signs:** BP 130/80 mmHg, HR 88 bpm, RR 22 breaths/min, SpO2 92% on room air
+- **Physical Exam:** 
+  - General: Alert, in mild respiratory distress
+  - Respiratory: Prolonged expiratory phase, decreased breath sounds bilaterally, wheezing noted on auscultation
+  - Cardiovascular: Regular","The most appropriate ICD-10 code for a diagnosis of ""emphysema/bronchitis"
+48,female,Symptoms related to alcohol withdrawal,alcohol withdrawal,"**Clinical Note**
+
+**Patient:**  
+- 48-year-old female
+
+**Presenting Complaints:**  
+- The patient presents with symptoms consistent with alcohol withdrawal, including:
+  - Tremors
+  - Anxiety
+  - Sweating
+  - Nausea and vomiting
+  - Insomnia
+  - Increased heart rate
+  - Elevated blood pressure
+
+**Assessment:**  
+- The patient has a history of alcohol use disorder and reports a significant reduction in alcohol intake over the past week, leading to the onset of withdrawal symptoms. 
+- Vital signs upon examination: 
+  - Heart rate: 110 bpm
+  - Blood pressure: 150/90 mmHg
+  - Temperature: 98.6°F
+- The patient exhibits mild tremors in the hands and appears anxious. No signs of delirium tremens (DTs) are noted at this time, but the risk is present given the history of heavy alcohol use.
+- Clinical Institute Withdrawal Assessment for Alcohol (","The most appropriate ICD-10 code for ""alcohol withdrawal"" is **F10.239**"
+59,female,"Symptoms related to overdose, sedatives, hypnotics, antipsychotics, benzodiazepines","overdose, sedatives, hypnotics, antipsychotics, benzodiazepines","**Clinical Note**
+
+**Patient:**  
+59-year-old female
+
+**Presenting Complaints:**  
+The patient presents with symptoms consistent with an overdose of sedatives, hypnotics, antipsychotics, and benzodiazepines. She was found unresponsive at home by a family member. Upon arrival at the emergency department, she exhibited the following symptoms:  
+- Decreased level of consciousness (Glasgow Coma Scale score of 9)  
+- Respiratory depression (respiratory rate of 8 breaths per minute)  
+- Hypotension (blood pressure 80/50 mmHg)  
+- Bradycardia (heart rate of 50 beats per minute)  
+- Slurred speech and confusion when aroused  
+
+**Assessment:**  
+The patient is likely experiencing a poly-drug overdose involving sedatives, hypnotics, antipsychotics, and benzodiazepines. The clinical presentation suggests significant central nervous system depression. Differential diagnoses include:  
+- Acute drug overdose","The most appropriate ICD-10 code for an overdose involving sedatives, hypnotics, antipsych"
+31,male,Symptoms related to diabetic ketoacidosis,diabetic ketoacidosis,"**Clinical Note**
+
+**Patient:**  
+31-year-old male
+
+**Presenting Complaints:**  
+- Patient presents with symptoms consistent with diabetic ketoacidosis (DKA), including:
+  - Polyuria
+  - Polydipsia
+  - Nausea and vomiting
+  - Abdominal pain
+  - Weakness and fatigue
+  - Fruity-smelling breath
+  - Altered mental status (confusion)
+
+**Assessment:**  
+- **Vital Signs:** 
+  - Blood pressure: 90/60 mmHg (hypotensive)
+  - Heart rate: 120 bpm (tachycardic)
+  - Respiratory rate: 24 breaths/min (tachypneic)
+  - Temperature: 98.6°F
+- **Physical Exam:**
+  - Alert but confused; appears dehydrated (dry mucous membranes, decreased skin turgor)
+  - Abdominal tenderness without rebound or guarding
+  - Kussmaul respirations noted",The most appropriate ICD-10 code for diabetic ketoacidosis is **E11.1**.
+51,female,"Symptoms related to overdose, alcohols (bethanol, methanol, ethylene glycol)","overdose, alcohols (bethanol, methanol, ethylene glycol)","**Clinical Note**
+
+**Patient:**  
+51-year-old female
+
+**Presenting Complaints:**  
+The patient presents with symptoms consistent with an overdose of alcohols, specifically bethanol, methanol, and ethylene glycol. She exhibits signs of confusion, slurred speech, and altered mental status. Vital signs show hypotension and bradycardia. The patient reports a history of recent alcohol consumption and possible ingestion of unknown substances.
+
+**Assessment:**  
+- **Mental Status:** The patient is disoriented and unable to provide a coherent history. 
+- **Vital Signs:** Blood pressure is low (90/60 mmHg), heart rate is bradycardic (50 bpm), respiratory rate is elevated (22 breaths/min), and temperature is within normal limits.
+- **Neurological Exam:** The patient is alert but confused, with a Glasgow Coma Scale score of 13.
+- **Laboratory Tests:** Initial lab work shows metabolic acidosis with an elevated anion gap. Serum electroly","The most appropriate ICD-10 code for an overdose of alcohols, including methanol and ethylene"
