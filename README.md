@@ -179,35 +179,66 @@ The system integrates three core components:
 ## 📂 Repository Structure
 
 milestone3_ehr_genai/
+
+
 ├── README.md                     # Project summary, usage, limitations
+
 ├── requirements.txt               # Python packages + versions
+
 ├── .gitignore                     # Exclude configs, cache, etc.
+
 │
+
 ├── data/
+
 │   ├── raw/                       # Synthetic raw patient records & imaging placeholders (non-PHI)
+
 │   ├── processed/                 # Processed inputs for pipeline (CSV/JSON)
+
 │   └── sample_outputs/            # Example outputs (e.g., final_patient_notes_with_icd.csv)
+
 │
+
 ├── src/
+
 │   ├── __init__.py
+
 │   ├── preprocess.py              # Data cleaning & formatting
+
 │   ├── note_generation.py         # GenAI / fallback local note generator
+
 │   ├── icd_mapper.py              # ICD mapping logic (lookup + AI-driven)
+
 │   ├── pipeline.py                # End-to-end pipeline orchestration
+
 │   └── utils.py                   # Logging, config helpers
+
 │
+
 ├── lookup_tables/
+
 │   └── icd10_lookup.csv           # ICD-10 codes (fallback); source explained in docs
+
 │
+
 ├── configs/
+
 │   └── config.yaml                # Configs: paths, API keys (ignored in git), flags (use_api: true/false)
+
 │
+
 ├── tests/
+
 │   ├── test_preprocess.py
+
 │   ├── test_icd_mapper.py
+
 │   └── test_pipeline_end_to_end.py
+
 │
+
 └── docs/
+
     └── milestone3_report.md       # Detailed report: progress, challenges, reproduction steps
 
 ---
