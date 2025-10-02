@@ -1,0 +1,151 @@
+Patient_ID,age,gender,symptoms,diagnosis
+1,45,male,"Symptoms related to hypertension, uncontrolled (for cerebrovascular accident-see neurological system)","hypertension, uncontrolled (for cerebrovascular accident-see neurological system)"
+2,50,male,Symptoms related to ablation or mapping of cardiac conduction pathway,ablation or mapping of cardiac conduction pathway
+3,83,male,"Symptoms related to endarterectomy, carotid","endarterectomy, carotid"
+4,49,male,"Symptoms related to infarction, acute myocardial (mi)","infarction, acute myocardial (mi)"
+5,57,male,"Symptoms related to cabg alone, coronary artery bypass grafting","cabg alone, coronary artery bypass grafting"
+6,80,female,Symptoms related to emphysema/bronchitis,emphysema/bronchitis
+7,48,female,Symptoms related to alcohol withdrawal,alcohol withdrawal
+8,59,female,"Symptoms related to overdose, sedatives, hypnotics, antipsychotics, benzodiazepines","overdose, sedatives, hypnotics, antipsychotics, benzodiazepines"
+9,31,male,Symptoms related to diabetic ketoacidosis,diabetic ketoacidosis
+10,51,female,"Symptoms related to overdose, alcohols (bethanol, methanol, ethylene glycol)","overdose, alcohols (bethanol, methanol, ethylene glycol)"
+11,62,female,"Symptoms related to cva, cerebrovascular accident/stroke","cva, cerebrovascular accident/stroke"
+12,88,male,"Symptoms related to renal failure, acute","renal failure, acute"
+13,58,male,Symptoms related to ablation or mapping of cardiac conduction pathway,ablation or mapping of cardiac conduction pathway
+14,48,female,Symptoms related to drug withdrawal,drug withdrawal
+15,68,female,Symptoms related to ablation or mapping of cardiac conduction pathway,ablation or mapping of cardiac conduction pathway
+16,52,female,Symptoms related to ablation or mapping of cardiac conduction pathway,ablation or mapping of cardiac conduction pathway
+17,40,male,"Symptoms related to angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)","angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)"
+18,79,female,"Symptoms related to renal failure, acute","renal failure, acute"
+19,65,male,"Symptoms related to infarction, acute myocardial (mi)","infarction, acute myocardial (mi)"
+20,57,female,"Symptoms related to hip replacement, total (non-traumatic)","hip replacement, total (non-traumatic)"
+21,63,male,"Symptoms related to shock, cardiogenic","shock, cardiogenic"
+22,34,female,"Symptoms related to hypertension, uncontrolled (for cerebrovascular accident-see neurological system)","hypertension, uncontrolled (for cerebrovascular accident-see neurological system)"
+23,67,male,"Symptoms related to cva, cerebrovascular accident/stroke","cva, cerebrovascular accident/stroke"
+24,86,female,Symptoms related to hypothermia,hypothermia
+25,62,female,"Symptoms related to rhythm disturbance (atrial, supraventricular)","rhythm disturbance (atrial, supraventricular)"
+26,61,male,"Symptoms related to sepsis, pulmonary","sepsis, pulmonary"
+27,74,male,"Symptoms related to angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)","angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)"
+28,58,male,"Symptoms related to sepsis, gi","sepsis, gi"
+29,72,male,"Symptoms related to vascular medical, other","vascular medical, other"
+30,75,male,"Symptoms related to sepsis, pulmonary","sepsis, pulmonary"
+31,79,male,"Symptoms related to bleeding, gi-location unknown","bleeding, gi-location unknown"
+32,41,male,"Symptoms related to hypertension, uncontrolled (for cerebrovascular accident-see neurological system)","hypertension, uncontrolled (for cerebrovascular accident-see neurological system)"
+33,> 89,female,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure"
+34,67,male,"Symptoms related to pneumonia, other","pneumonia, other"
+35,86,female,"Symptoms related to bleeding, lower gi","bleeding, lower gi"
+36,69,male,"Symptoms related to rhythm disturbance (atrial, supraventricular)","rhythm disturbance (atrial, supraventricular)"
+37,87,male,Symptoms related to emphysema/bronchitis,emphysema/bronchitis
+38,87,male,Symptoms related to emphysema/bronchitis,emphysema/bronchitis
+39,89,female,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure"
+40,52,female,"Symptoms related to coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv)","coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv)"
+41,87,female,"Symptoms related to hip replacement, total (non-traumatic)","hip replacement, total (non-traumatic)"
+42,76,male,"Symptoms related to thrombus, arterial","thrombus, arterial"
+43,86,female,"Symptoms related to cva, cerebrovascular accident/stroke","cva, cerebrovascular accident/stroke"
+44,62,female,"Symptoms related to aneurysm/pseudoaneurysm, other","aneurysm/pseudoaneurysm, other"
+45,83,female,Symptoms related to shunts and revisions,shunts and revisions
+46,58,male,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure"
+47,63,female,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure"
+48,63,male,Symptoms related to diabetic ketoacidosis,diabetic ketoacidosis
+49,56,male,"Symptoms related to angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)","angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)"
+50,54,female,"Symptoms related to neoplasm-cranial, surgery for (excluding transphenoidal)","neoplasm-cranial, surgery for (excluding transphenoidal)"
+51,> 89,female,"Symptoms related to pneumonia, viral","pneumonia, viral"
+52,84,female,"Symptoms related to arrest, respiratory (without cardiac arrest)","arrest, respiratory (without cardiac arrest)"
+53,84,female,"Symptoms related to rhythm disturbance (atrial, supraventricular)","rhythm disturbance (atrial, supraventricular)"
+54,86,female,"Symptoms related to orthopedic surgery, other","orthopedic surgery, other"
+55,84,female,Symptoms related to rhythm disturbance (conduction defect),rhythm disturbance (conduction defect)
+56,84,female,Symptoms related to rhythm disturbance (ventricular),rhythm disturbance (ventricular)
+57,73,female,"Symptoms related to hemorrhage/hematoma, intracranial","hemorrhage/hematoma, intracranial"
+58,74,female,"Symptoms related to sepsis, renal/uti (including bladder)","sepsis, renal/uti (including bladder)"
+59,81,female,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure"
+60,55,female,"Symptoms related to overdose, sedatives, hypnotics, antipsychotics, benzodiazepines","overdose, sedatives, hypnotics, antipsychotics, benzodiazepines"
+61,64,female,"Symptoms related to sepsis, pulmonary","sepsis, pulmonary"
+62,58,male,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure"
+63,54,female,"Symptoms related to rhythm disturbance (atrial, supraventricular)","rhythm disturbance (atrial, supraventricular)"
+64,54,female,"Symptoms related to respiratory - medical, other","respiratory - medical, other"
+65,83,female,"Symptoms related to sepsis, renal/uti (including bladder)","sepsis, renal/uti (including bladder)"
+66,64,female,Symptoms related to diabetic ketoacidosis,diabetic ketoacidosis
+67,67,female,"Symptoms related to respiratory - medical, other","respiratory - medical, other"
+68,80,female,Symptoms related to head only trauma,head only trauma
+69,59,female,"Symptoms related to sepsis, unknown","sepsis, unknown"
+70,59,male,"Symptoms related to sepsis, pulmonary","sepsis, pulmonary"
+71,54,female,"Symptoms related to respiratory - medical, other","respiratory - medical, other"
+72,45,male,Symptoms related to diabetic ketoacidosis,diabetic ketoacidosis
+73,37,male,"Symptoms related to sepsis, other","sepsis, other"
+74,59,male,"Symptoms related to sepsis, other","sepsis, other"
+75,67,male,"Symptoms related to respiratory - medical, other","respiratory - medical, other"
+76,41,male,Symptoms related to pancreatitis,pancreatitis
+77,52,male,"Symptoms related to bleeding, lower gi","bleeding, lower gi"
+78,37,male,"Symptoms related to coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv)","coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv)"
+79,62,female,Symptoms related to seizures (primary-no structural brain disease),seizures (primary-no structural brain disease)
+80,50,male,"Symptoms related to thrombus, arterial","thrombus, arterial"
+81,54,male,"Symptoms related to infarction, acute myocardial (mi)","infarction, acute myocardial (mi)"
+82,59,male,"Symptoms related to cabg alone, coronary artery bypass grafting","cabg alone, coronary artery bypass grafting"
+83,63,female,"Symptoms related to vascular medical, other","vascular medical, other"
+84,50,male,"Symptoms related to aneurysm, dissecting aortic","aneurysm, dissecting aortic"
+85,70,female,"Symptoms related to cabg alone, coronary artery bypass grafting","cabg alone, coronary artery bypass grafting"
+86,78,female,"Symptoms related to graft, all other bypass (except renal)","graft, all other bypass (except renal)"
+87,69,male,"Symptoms related to monitoring, hemodynamic (pre-operative evaluation)","monitoring, hemodynamic (pre-operative evaluation)"
+88,73,female,Symptoms related to mitral valve repair,mitral valve repair
+89,24,male,Symptoms related to endocarditis,endocarditis
+90,59,female,"Symptoms related to aneurysm, thoracic aortic","aneurysm, thoracic aortic"
+91,67,female,"Symptoms related to shock, cardiogenic","shock, cardiogenic"
+92,65,female,Symptoms related to mi admitted > 24 hrs after onset of ischemia,mi admitted > 24 hrs after onset of ischemia
+93,81,female,"Symptoms related to bleeding, upper gi","bleeding, upper gi"
+94,55,male,Symptoms related to heart transplant,heart transplant
+95,80,female,Symptoms related to aortic valve replacement (isolated),aortic valve replacement (isolated)
+96,74,female,"Symptoms related to hypertension, uncontrolled (for cerebrovascular accident-see neurological system)","hypertension, uncontrolled (for cerebrovascular accident-see neurological system)"
+97,21,female,"Symptoms related to overdose, street drugs (opiates, cocaine, amphetamine)","overdose, street drugs (opiates, cocaine, amphetamine)"
+98,39,female,Symptoms related to diabetic ketoacidosis,diabetic ketoacidosis
+99,50,male,"Symptoms related to bleeding, upper gi","bleeding, upper gi"
+100,61,female,"Symptoms related to angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)","angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)"
+101,77,female,"Symptoms related to bleeding, lower gi","bleeding, lower gi"
+102,54,male,"Symptoms related to infarction, acute myocardial (mi)","infarction, acute myocardial (mi)"
+103,53,female,"Symptoms related to hematoma, subdural","hematoma, subdural"
+104,86,female,"Symptoms related to bleeding, gi-location unknown","bleeding, gi-location unknown"
+105,72,female,"Symptoms related to cancer, pancreatic","cancer, pancreatic"
+106,64,female,Symptoms related to myasthenia gravis,myasthenia gravis
+107,73,female,"Symptoms related to infarction, acute myocardial (mi)","infarction, acute myocardial (mi)"
+108,77,female,"Symptoms related to rhythm disturbance (atrial, supraventricular)","rhythm disturbance (atrial, supraventricular)"
+109,41,female,"Symptoms related to hypovolemia (including dehydration, do not include shock states)","hypovolemia (including dehydration, do not include shock states)"
+110,65,female,Symptoms related to hypoglycemia,hypoglycemia
+111,> 89,female,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure"
+112,89,male,Symptoms related to subarachnoid hemorrhage/intracranial aneurysm,subarachnoid hemorrhage/intracranial aneurysm
+113,81,female,"Symptoms related to rhythm disturbance (atrial, supraventricular)","rhythm disturbance (atrial, supraventricular)"
+114,81,female,"Symptoms related to rhythm disturbance (atrial, supraventricular)","rhythm disturbance (atrial, supraventricular)"
+115,59,female,"Symptoms related to neurologic surgery, other","neurologic surgery, other"
+116,> 89,female,"Symptoms related to sepsis, renal/uti (including bladder)","sepsis, renal/uti (including bladder)"
+117,42,male,"Symptoms related to ards-adult respiratory distress syndrome, non-cardiogenic pulmonary edema","ards-adult respiratory distress syndrome, non-cardiogenic pulmonary edema"
+118,76,male,"Symptoms related to infection/abscess, other surgery for","infection/abscess, other surgery for"
+119,76,male,"Symptoms related to esophageal surgery, other","esophageal surgery, other"
+120,82,female,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure"
+121,38,female,"Symptoms related to ards-adult respiratory distress syndrome, non-cardiogenic pulmonary edema","ards-adult respiratory distress syndrome, non-cardiogenic pulmonary edema"
+122,72,female,"Symptoms related to pneumonia, bacterial","pneumonia, bacterial"
+123,81,male,Symptoms related to aortic valve replacement (isolated),aortic valve replacement (isolated)
+124,60,female,Symptoms related to renal infection/abscess,renal infection/abscess
+125,76,male,"Symptoms related to coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv)","coma/change in level of consciousness (for hepatic see gi, for diabetic see endocrine, if related to cardiac arrest, see cv)"
+126,39,female,Symptoms related to heart transplant,heart transplant
+127,46,male,"Symptoms related to sepsis, other","sepsis, other"
+128,56,female,Symptoms related to emphysema/bronchitis,emphysema/bronchitis
+129,74,female,"Symptoms related to fracture-pathological, non-union, non-traumatic, for fractures due to trauma see trauma","fracture-pathological, non-union, non-traumatic, for fractures due to trauma see trauma"
+130,64,female,"Symptoms related to respiratory - medical, other","respiratory - medical, other"
+131,69,female,Symptoms related to whipple-surgery for pancreatic cancer,whipple-surgery for pancreatic cancer
+132,73,female,"Symptoms related to bleeding, gi-location unknown","bleeding, gi-location unknown"
+133,76,female,Symptoms related to cardiac arrest (with or without respiratory arrest; for respiratory arrest see respiratory system),cardiac arrest (with or without respiratory arrest; for respiratory arrest see respiratory system)
+134,61,female,Symptoms related to hemorrhage (for gastrointestinal bleeding gi-see gi system) (for trauma see trauma),hemorrhage (for gastrointestinal bleeding gi-see gi system) (for trauma see trauma)
+135,34,female,Symptoms related to cesarean section,cesarean section
+136,63,female,"Symptoms related to angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)","angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)"
+137,70,female,Symptoms related to mi admitted > 24 hrs after onset of ischemia,mi admitted > 24 hrs after onset of ischemia
+138,66,female,Symptoms related to aortic valve replacement (isolated),aortic valve replacement (isolated)
+139,75,female,Symptoms related to cabg with other operation,cabg with other operation
+140,68,female,"Symptoms related to cabg alone, coronary artery bypass grafting","cabg alone, coronary artery bypass grafting"
+141,58,female,Symptoms related to aortic and mitral valve replacement,aortic and mitral valve replacement
+142,61,male,Symptoms related to aortic valve replacement (isolated),aortic valve replacement (isolated)
+143,58,female,"Symptoms related to cabg alone, coronary artery bypass grafting","cabg alone, coronary artery bypass grafting"
+144,44,female,"Symptoms related to aneurysm, thoracic aortic; with dissection","aneurysm, thoracic aortic; with dissection"
+145,76,female,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure"
+146,56,male,"Symptoms related to chf, congestive heart failure","chf, congestive heart failure"
+147,59,male,"Symptoms related to pneumonia, viral","pneumonia, viral"
+148,67,female,"Symptoms related to sepsis, other","sepsis, other"
+149,86,female,"Symptoms related to rhythm disturbance (atrial, supraventricular)","rhythm disturbance (atrial, supraventricular)"
+150,56,male,"Symptoms related to infarction, acute myocardial (mi)","infarction, acute myocardial (mi)"
