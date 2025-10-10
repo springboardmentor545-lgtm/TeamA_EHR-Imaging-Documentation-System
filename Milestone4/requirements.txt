@@ -1,0 +1,14 @@
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+opencv-python
+tensorflow
+scikit-learn
+google-generativeai
+fpdf
+PyYAML
+scipy
+tqdm

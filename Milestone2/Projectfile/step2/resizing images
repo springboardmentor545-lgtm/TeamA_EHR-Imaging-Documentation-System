@@ -1,0 +1,62 @@
+# Resize all images in a folder to a standard size
+import os
+from PIL import Image
+from pathlib import Path
+
+# 1. Define paths
+source_folder = Path("images") # Folder containing original images
+dest_folder = Path("images_resized") # Folder to save resized images
+
+# 2. Create destination folder if it doesn't exist
+dest_folder.mkdir(exist_ok=True)
+
+# 3. Set target size (common sizes: 256x256, 224x224, 128x128)
+TARGET_SIZE = (256, 256) # (width, height)
+
+# 4. Supported image formats
+image_extensions = ('.png', '.jpg', '.jpeg', '.bmp', '.tiff', '.tif')
+
+# 5. Resize all images
+print(f"Resizing images in: {source_folder}")
+print(f"Target size: {TARGET_SIZE[0]}x{TARGET_SIZE[1]} pixels")
+print("=" * 50)
+
+resized_count = 0
+for file_path in source_folder.iterdir():
+if file_path.is_file() and file_path.suffix.lower() in image_extensions:
+try:
+# Open the image
+with Image.open(file_path) as img:
+# Convert to RGB if necessary (e.g., for PNG with transparency)
+if img.mode != 'RGB':
+img = img.convert('RGB')
+
+# Resize the image
+resized_img = img.resize(TARGET_SIZE, Image.Resampling.LANCZOS)
+
+# Save the resized image to the new folder
+new_file_path = dest_folder / file_path.name
+resized_img.save(new_file_path)
+
+print(f"Resized: {file_path.name} → {TARGET_SIZE[0]}x{TARGET_SIZE[1]}")
+resized_count += 1
+
+except Exception as e:
+print(f"Error processing {file_path.name}: {e}")
+
+print("=" * 50)
+print(f"✅ Resizing complete! {resized_count} images resized and saved to '{dest_folder}'")
+
+
+
+# Verify all images in the resized folder have the same size
+from PIL import Image
+
+resized_folder = Path("images_resized")
+print(f"Checking sizes in: {resized_folder}")
+print("=" * 30)
+
+for file_path in resized_folder.iterdir():
+if file_path.is_file():
+with Image.open(file_path) as img:
+print(f"{file_path.name}: {img.size}")

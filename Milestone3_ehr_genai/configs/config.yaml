@@ -1,0 +1,55 @@
+# config.yaml
+
+data:
+  # Path to the master metadata CSV file
+  metadata_path: "datasets/master_metadata.csv"
+
+model:
+  # --- Deep Learning Model Configuration ---
+  
+  # SRCNN (Super-Resolution CNN) Details
+  srcnn_optimizer: "adam"
+  srcnn_loss: "mse"
+  
+  # Classification CNN (Placeholder) Details
+  classification_input_shape: [256, 256, 1]
+  classification_output_classes: 5
+  classification_optimizer: "adam"
+  classification_loss: "categorical_crossentropy"
+
+analysis:
+  # Image processing details
+  target_size: [256, 256]
+  
+  # Rule-based Classification Thresholds for Risk Score
+  risk_thresholds:
+    normal: 0.3
+    coronary_artery_disease: 0.5
+    arrhythmia: 0.7
+    cardiomyopathy: 0.8
+  
+  # Clinical Codes
+  icd10_codes:
+    normal: 'Z00'
+    coronary_artery_disease: 'I25'
+    arrhythmia: 'I49'
+    cardiomyopathy: 'I42'
+    myocardial_infarction: 'I21'
+    heart_failure: 'I50'
+    valvular_heart_disease: 'I35'
+
+report:
+  # Gemini API details for final report generation
+  llm_model_name: "gemini-2.5-flash"
+  llm_model_name: "openai/gpt-4"
+  
+  
+  # Output file and doctor signature details
+  report_doctor_name: "John Doe"
+  system_version: "AI Cardiac Analysis System v2.0"
+  output_filename_prefix: "Cardiac_Report_"
+
+settings:
+  # Global settings
+  random_seed: 42
+  api_key_placeholder: "AIzaSyB530wjAi-8eqttRw9_Kq1iui0ThDSIF10"

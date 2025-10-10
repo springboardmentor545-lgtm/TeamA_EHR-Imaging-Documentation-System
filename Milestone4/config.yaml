@@ -1,0 +1,26 @@
+# API Configuration
+gemini_api_key: "AIzaSyDyVY2ZAFunydX53ncBlO1Y-hjgIlD1chM"
+
+# Database Configuration
+database_path: "cardiac_clinic.db"
+
+# Image Processing Configuration
+image_settings:
+  target_size: [256, 256]
+  enhance_images: true
+
+# Model Configuration
+model_params:
+  srcnn_filters: [64, 32, 1]
+  classification_filters: [32, 64, 128, 256]
+  dense_units: [512, 256]
+
+# ICD-10 Codes
+icd10_codes:
+  myocardial_infarction: "I21"
+  heart_failure: "I50"
+  coronary_artery_disease: "I25"
+  arrhythmia: "I49"
+  cardiomyopathy: "I42"
+  valvular_heart_disease: "I35"
+  normal: "Z00"

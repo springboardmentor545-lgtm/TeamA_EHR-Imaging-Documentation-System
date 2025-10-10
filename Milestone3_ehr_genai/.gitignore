@@ -1,0 +1,53 @@
+# .gitignore
+
+# --- Operating System Files ---
+.DS_Store
+.ipynb_checkpoints/
+Thumbs.db
+
+# --- Python Environment & Artifacts ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.pth
+
+# Cython
+*.so
+
+# Jupyter Notebook Files
+# Your original file is a notebook, but typically we ignore output artifacts
+# *.ipynb_checkpoints
+
+# --- Data and Logs ---
+# Master data (if large or sensitive)
+# datasets/master_metadata.csv  # Uncomment if data is tracked separately
+
+# Logs and generated reports
+*.log
+*.txt
+*.tmp
+Cardiac_Report_*.txt
+
+# --- Deep Learning Artifacts ---
+# Model weights and saved models
+*.h5
+*.keras
+*.pb
+saved_models/
+checkpoints/
+
+# --- API Keys and Configuration ---
+# Your API key should be in a separate, untracked file, 
+# or configured as an environment variable, not hardcoded.
+# If config.yaml contained a hardcoded key, it should be ignored.
+# config.yaml
